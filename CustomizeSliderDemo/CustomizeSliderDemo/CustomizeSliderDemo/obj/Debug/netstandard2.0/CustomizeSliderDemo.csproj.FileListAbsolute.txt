@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\bin\Debug\netstandard2.0\CustomizeSliderDemo.deps.json
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\bin\Debug\netstandard2.0\CustomizeSliderDemo.dll
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\bin\Debug\netstandard2.0\CustomizeSliderDemo.pdb
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.dll
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.pdb
+C:\XamarinApps\Demos X\CustomizeSliderDemo\CustomizeSliderDemo\CustomizeSliderDemo\obj\Debug\netstandard2.0\CustomizeSliderDemo.csprojResolveAssemblyReference.cache

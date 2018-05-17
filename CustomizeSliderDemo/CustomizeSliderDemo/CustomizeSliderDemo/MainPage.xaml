@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CustomizeSliderDemo"
+             xmlns:cs="clr-namespace:CustomizeSliderDemo"
+             x:Class="CustomizeSliderDemo.MainPage">
+
+    <StackLayout Padding="20">
+        
+        <Label Text="Sliders Personalizados" FontSize="Large"/>
+        
+        <cs:CustomSlider x:Name="customSlider" Margin="0,20" 
+                            MaxColor="Red" 
+                            MinColor="Blue"   
+                            ThumbColor="Green" />
+
+        <cs:CustomSlider MaxColor="Red" MinColor="Orange" Margin="0,20"
+                         ThumbImage="monkeyDev.png"/>
+    </StackLayout>
+
+</ContentPage>
