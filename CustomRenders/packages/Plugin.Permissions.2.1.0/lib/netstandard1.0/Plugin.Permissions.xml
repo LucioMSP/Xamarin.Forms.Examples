@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Permissions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Permissions.CrossPermissions">
+            <summary>
+            Cross platform Permissions implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Permissions.CrossPermissions.IsSupported">
+            <summary>
+            Gets if the plugin is supported on the current platform.
+            </summary>
+        </member>
+        <member name="P:Plugin.Permissions.CrossPermissions.Current">
+            <summary>
+            Current plugin implementation to use
+            </summary>
+        </member>
+    </members>
+</doc>

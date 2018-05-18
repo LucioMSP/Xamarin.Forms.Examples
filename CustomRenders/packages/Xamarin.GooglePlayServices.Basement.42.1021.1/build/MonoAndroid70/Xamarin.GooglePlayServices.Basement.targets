@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <!-- Unique key for cached download -->
+    <_XbdKey_playservicesbasement>playservices-10.2.1/playservicesbasement</_XbdKey_playservicesbasement>
+    <!-- Path to .aar file within the extracted contents of the cached download -->
+    <_XbdAarFile_playservicesbasement>m2repository\com\google\android\gms\play-services-basement\10.2.1\play-services-basement-10.2.1.aar</_XbdAarFile_playservicesbasement>
+    <!-- Full path to .aar file, assuming we had to download to the cache - we reset this later if it is in the sdk -->
+    <_XbdAarFileFullPath_playservicesbasement>$(XamarinBuildDownloadDir)$(_XbdKey_playservicesbasement)\play-services-basement-10.2.1.aar</_XbdAarFileFullPath_playservicesbasement>
+    <!-- Assembly name to embed .aar in -->
+    <_XbdAssemblyName_playservicesbasement>Xamarin.GooglePlayServices.Basement</_XbdAssemblyName_playservicesbasement>
+  </PropertyGroup>
+  <ItemGroup>
+    <XamarinBuildRestoreResources Include="_XbdRestoreItems_playservicesbasement" />
+  </ItemGroup>
+  <Target Name="_XbdRestoreItems_playservicesbasement">
+    <!-- Check if the aar file is in the android sdk already and change the path to use to it, if it's found -->
+    <CreateProperty Value="$(AndroidSdkDirectory)\extras\google\$(_XbdAarFile_playservicesbasement)" Condition="Exists('$(AndroidSdkDirectory)\extras\google\$(_XbdAarFile_playservicesbasement)')">
+      <Output PropertyName="_XbdAarFileFullPath_playservicesbasement" TaskParameter="Value" />
+    </CreateProperty>
+    <ItemGroup>
+      <XamarinBuildDownloadPartialZip Include="$(_XbdKey_playservicesbasement)" Condition="!Exists('$(_XbdAarFileFullPath_playservicesbasement)')">
+        <Url>https://dl-ssl.google.com/android/repository/google_m2repository_gms_v9_1_rc07_wear_2_0_1_rc3.zip</Url>
+        <ToFile>play-services-basement-10.2.1.aar</ToFile>
+        <RangeStart>100833740</RangeStart>
+        <RangeEnd>101168014</RangeEnd>
+        <Md5>1ddf95b31e73f7a79e39df81875797ae</Md5>
+        <CustomErrorMessage>Please open the Android SDK Manager and install the latest version of 'Google Repository' from the 'Extras' section, and then reload your solution.</CustomErrorMessage>
+        <CustomErrorCode>XBD404</CustomErrorCode>
+      </XamarinBuildDownloadPartialZip>
+    </ItemGroup>
+    <ItemGroup>
+      <XamarinBuildDownloadRestoreAssemblyAar Include="$(_XbdAarFileFullPath_playservicesbasement)">
+        <LogicalName>__AndroidLibraryProjects__.zip</LogicalName>
+        <AssemblyName>$(_XbdAssemblyName_playservicesbasement)</AssemblyName>
+      </XamarinBuildDownloadRestoreAssemblyAar>
+    </ItemGroup>
+  </Target>
+  <Target Name="ProcessGoogleServicesJsonChecks" Condition=" '@(GoogleServicesJson)' == '' " BeforeTargets="BeforeBuild">
+    <Message Text="No GoogleServicesJson file specified." />
+  </Target>
+  <ItemGroup>
+    <AvailableItemName Include="GoogleServicesJson" />
+  </ItemGroup>
+  <PropertyGroup>
+    <ProcessGoogleServicesJsonTaskFilename Condition=" '$(ProcessGoogleServicesJsonTaskFilename)' == '' ">$(MSBuildThisFileDirectory)Xamarin.GooglePlayServices.Tasks.dll</ProcessGoogleServicesJsonTaskFilename>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProcessGoogleServicesJsonDependsOn>
+       $(ProcessGoogleServicesJsonDependsOn);
+    </ProcessGoogleServicesJsonDependsOn>
+    <ProcessGoogleServicesJsonBeforeTargets>
+      _UpdateAndroidResgen;$(ProcessGoogleServicesJsonBeforeTargets);
+    </ProcessGoogleServicesJsonBeforeTargets>
+    <ProcessGoogleServicesJsonAfterTargets>
+      $(ProcessGoogleServicesJsonAfterTargets);
+    </ProcessGoogleServicesJsonAfterTargets>
+  </PropertyGroup>
+  <UsingTask AssemblyFile="Xamarin.GooglePlayServices.Tasks.dll" TaskName="Xamarin.GooglePlayServices.Tasks.ProcessGoogleServicesJson" />
+  <Target Name="ProcessGoogleServicesJson" Condition=" '@(GoogleServicesJson)' != '' AND '$(AndroidApplication)' == 'True' AND '$(DesignTimeBuild)' != 'True'" BeforeTargets="$(ProcessGoogleServicesJsonBeforeTargets)" AfterTargets="$(ProcessGoogleServicesJsonAfterTargets)" Inputs="@(GoogleServicesJson)" Outputs="$(IntermediateOutputPath)\ProcessGoogleServicesJson.stamp">
+    <ProcessGoogleServicesJson GoogleServicesJsons="@(GoogleServicesJson)" IntermediateOutputPath="$(IntermediateOutputPath)" MonoAndroidResDirIntermediate="$(MonoAndroidResDirIntermediate)" AndroidPackageName="$(_AndroidPackage)">
+      <Output ItemName="_AndroidResourceDest" TaskParameter="GoogleServicesGeneratedResources" />
+      <Output ItemName="FileWrites" TaskParameter="GoogleServicesGeneratedResources" />
+    </ProcessGoogleServicesJson>
+    <ItemGroup>
+      <FileWrites Include="$(IntermediateOutputPath)\ProcessGoogleServicesJson.stamp" />
+    </ItemGroup>
+  </Target>
+</Project>

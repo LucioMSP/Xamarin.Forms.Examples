@@ -20,29 +20,8 @@
     <Jar>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\8\jl\bin\classes.jar</Jar>
     <Jar>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\23\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\8\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\17\jl\res</ResolvedResourceDirectory>
-  </ResolvedResourceDirectories>
-  <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\lp\23\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\lp\12\jl\assets</ResolvedAssetDirectory>
-  </ResolvedAssetDirectories>
+  <ResolvedResourceDirectories />
+  <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\23.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\8.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo.Android\obj\Debug\lp\17.stamp</ResolvedResourceDirectoryStamp>
-  </ResolvedResourceDirectoryStamps>
+  <ResolvedResourceDirectoryStamps />
 </Paths>
