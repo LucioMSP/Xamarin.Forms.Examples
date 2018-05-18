@@ -7,6 +7,6 @@
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
   <uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="CustomRenders.Android">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBoOBcMqwh8XJ4oqCJX7EgALG_IQHfCvNk" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="" />
 	</application>
 </manifest>
