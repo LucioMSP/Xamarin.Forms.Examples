@@ -1,0 +1,77 @@
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.Android.dll
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.Android.pdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\com.companyname.SignaturePadDemo.apk
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\com.companyname.SignaturePadDemo-Signed.apk
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.dll
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.pdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\SignaturePadDemo.Android.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\SignaturePadDemo.Android.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\SignaturePadDemo.Android.dll
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\SignaturePadDemo.Android.pdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\bin\com.companyname.SignaturePadDemo.apk
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\drawable\icon.png
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\layout\tabbar.xml
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\layout\toolbar.xml
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\res\values\styles.xml
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\R.cs.flag
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\uploadflags.txt
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.Android.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\assets\SignaturePadDemo.Android.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo.Android\bin\Debug\SignaturePadDemo.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Web.Services.pdb
+obj\Debug\linksrc\SignaturePadDemo.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SignaturePadDemo.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

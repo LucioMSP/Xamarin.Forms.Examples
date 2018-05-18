@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\bin\Debug\netstandard2.0\SignaturePadDemo.deps.json
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\bin\Debug\netstandard2.0\SignaturePadDemo.dll
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\bin\Debug\netstandard2.0\SignaturePadDemo.pdb
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.dll
+C:\XamarinApps\Demos X\SignaturePadDemo\SignaturePadDemo\SignaturePadDemo\obj\Debug\netstandard2.0\SignaturePadDemo.pdb
