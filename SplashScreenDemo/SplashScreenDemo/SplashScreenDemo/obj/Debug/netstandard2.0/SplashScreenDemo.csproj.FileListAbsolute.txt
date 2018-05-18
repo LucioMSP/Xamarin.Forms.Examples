@@ -1,0 +1,10 @@
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\bin\Debug\netstandard2.0\SplashScreenDemo.deps.json
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\bin\Debug\netstandard2.0\SplashScreenDemo.dll
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\bin\Debug\netstandard2.0\SplashScreenDemo.pdb
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.dll
+C:\XamarinApps\Demos X\SplashScreenDemo\SplashScreenDemo\SplashScreenDemo\obj\Debug\netstandard2.0\SplashScreenDemo.pdb
