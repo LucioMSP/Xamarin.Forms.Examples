@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\bin\Debug\netstandard2.0\LottieDemo.deps.json
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\bin\Debug\netstandard2.0\LottieDemo.dll
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\bin\Debug\netstandard2.0\LottieDemo.pdb
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.dll
+C:\XamarinApps\Demos X\LottieDemo\LottieDemo\LottieDemo\obj\Debug\netstandard2.0\LottieDemo.pdb
