@@ -1,0 +1,2 @@
+C:\Program Files (x86)\Xamarin\Workbooks\Agents\Forms\Android\Xamarin.Interactive.dll
+C:\Program Files (x86)\Xamarin\Workbooks\Agents\Forms\Android\Xamarin.Interactive.Android.dll
