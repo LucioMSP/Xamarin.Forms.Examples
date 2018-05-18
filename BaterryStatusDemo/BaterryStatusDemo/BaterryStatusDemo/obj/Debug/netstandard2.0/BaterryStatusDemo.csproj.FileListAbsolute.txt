@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\bin\Debug\netstandard2.0\BaterryStatusDemo.deps.json
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\bin\Debug\netstandard2.0\BaterryStatusDemo.dll
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\bin\Debug\netstandard2.0\BaterryStatusDemo.pdb
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.dll
+C:\XamarinApps\Demos X\BaterryStatusDemo\BaterryStatusDemo\BaterryStatusDemo\obj\Debug\netstandard2.0\BaterryStatusDemo.pdb

@@ -6,9 +6,9 @@
              x:Class="CustomizeSliderDemo.MainPage">
 
     <StackLayout Padding="20">
-        
+
         <Label Text="Sliders Personalizados" FontSize="Large"/>
-        
+
         <cs:CustomSlider x:Name="customSlider" Margin="0,20" 
                             MaxColor="Red" 
                             MinColor="Blue"   
