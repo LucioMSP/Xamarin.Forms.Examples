@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\bin\Debug\netstandard2.0\InternetStatusDemo.deps.json
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\bin\Debug\netstandard2.0\InternetStatusDemo.dll
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\bin\Debug\netstandard2.0\InternetStatusDemo.pdb
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.dll
+C:\XamarinApps\Demos X\InternetStatusDemo\InternetStatusDemo\InternetStatusDemo\obj\Debug\netstandard2.0\InternetStatusDemo.pdb
