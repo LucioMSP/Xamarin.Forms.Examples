@@ -1,0 +1,12 @@
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\bin\Debug\netstandard2.0\PDFViewDemo.deps.json
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\bin\Debug\netstandard2.0\PDFViewDemo.dll
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\bin\Debug\netstandard2.0\PDFViewDemo.pdb
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.csprojResolveAssemblyReference.cache
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.App.xaml.g.cs
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.dll
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.pdb
+C:\XamarinApps\Demos X\PDFViewDemo\PDFViewDemo\PDFViewDemo\obj\Debug\netstandard2.0\PDFViewDemo.WebViewPage.xaml.g.cs
