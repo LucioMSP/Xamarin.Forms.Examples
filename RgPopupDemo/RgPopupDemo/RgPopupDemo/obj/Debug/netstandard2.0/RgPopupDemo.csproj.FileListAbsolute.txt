@@ -1,0 +1,9 @@
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\bin\Debug\netstandard2.0\RgPopupDemo.deps.json
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\bin\Debug\netstandard2.0\RgPopupDemo.dll
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.csprojAssemblyReference.cache
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\bin\Debug\netstandard2.0\RgPopupDemo.pdb
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.dll
+C:\XamarinApps\Demos X\RgPopupDemo\RgPopupDemo\RgPopupDemo\obj\Debug\netstandard2.0\RgPopupDemo.pdb

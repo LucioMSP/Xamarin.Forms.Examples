@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RgPopupDemo.PopupAnimationPage">
+    
+    <StackLayout>
+        <Frame Margin="30" Padding="10">
+            <StackLayout>
+                <Label Text="Popup Animation"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+    
+</popup:PopupPage>
