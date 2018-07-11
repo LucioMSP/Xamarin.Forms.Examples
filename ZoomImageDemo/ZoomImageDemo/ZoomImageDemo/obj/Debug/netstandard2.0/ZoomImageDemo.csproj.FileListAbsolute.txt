@@ -1,0 +1,12 @@
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.csprojAssemblyReference.cache
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.dll
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\ZoomImageDemo.pdb
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\bin\Debug\netstandard2.0\ZoomImageDemo.deps.json
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\bin\Debug\netstandard2.0\ZoomImageDemo.dll
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\bin\Debug\netstandard2.0\ZoomImageDemo.pdb
+C:\XamarinApps\Demos X\ZoomImageDemo\ZoomImageDemo\ZoomImageDemo\obj\Debug\netstandard2.0\XamlC.stamp
