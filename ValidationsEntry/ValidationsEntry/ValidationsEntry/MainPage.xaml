@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ValidationsEntry"
+             x:Class="ValidationsEntry.MainPage">
+
+    <StackLayout Margin="0,50">
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="45*" />
+                    <ColumnDefinition Width="45*" />
+                </Grid.ColumnDefinitions>
+
+                <Entry x:Name="UserName" Grid.Row="0" Grid.Column="0" Placeholder="Nombre" Keyboard="Text" />
+                <Entry x:Name="UserLastName" Grid.Row="0" Grid.Column="1" Placeholder="Apellido" Keyboard="Text" />
+
+            </Grid>
+        </StackLayout>
+
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Entry x:Name="UserEmail"  Grid.Row="0" Grid.Column="0" Placeholder="Email" Keyboard="Email" />
+                <Entry x:Name="UserCelular" Grid.Row="1" Grid.Column="0" Placeholder="Teléfono" Keyboard="Telephone" MaxLength="10" />
+
+            </Grid>
+
+        </StackLayout>
+
+        <Button x:Name="ClienteBtF" Text="Continuar"
+                BorderRadius="10"
+                BorderWidth="1"
+                BorderColor="Black"  
+                TextColor="White"
+                Margin="30,0,30,0"
+                Clicked="Continue_Tapped"/>
+
+    </StackLayout>
+
+</ContentPage>

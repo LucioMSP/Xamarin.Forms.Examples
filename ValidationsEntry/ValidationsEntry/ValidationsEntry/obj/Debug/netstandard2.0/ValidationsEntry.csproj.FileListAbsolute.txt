@@ -1,0 +1,11 @@
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\bin\Debug\netstandard2.0\ValidationsEntry.deps.json
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\bin\Debug\netstandard2.0\ValidationsEntry.dll
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\bin\Debug\netstandard2.0\ValidationsEntry.pdb
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\ValidationsEntry.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\ValidationsEntry.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\ValidationsEntry.AssemblyInfo.cs
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\ValidationsEntry.dll
+C:\XamarinApps\Demos X\ValidationsEntry\ValidationsEntry\ValidationsEntry\obj\Debug\netstandard2.0\ValidationsEntry.pdb
