@@ -1,0 +1,13 @@
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\bin\Debug\netstandard2.0\RestFul_Demo.deps.json
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\bin\Debug\netstandard2.0\RestFul_Demo.dll
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.csprojAssemblyReference.cache
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.AssemblyInfo.cs
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\bin\Debug\netstandard2.0\RestFul_Demo.pdb
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\PostRestPage.xaml.g.cs
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.dll
+C:\XamarinApps\Demos X\RestFul_Demo\RestFul_Demo\RestFul_Demo\obj\Debug\netstandard2.0\RestFul_Demo.pdb
