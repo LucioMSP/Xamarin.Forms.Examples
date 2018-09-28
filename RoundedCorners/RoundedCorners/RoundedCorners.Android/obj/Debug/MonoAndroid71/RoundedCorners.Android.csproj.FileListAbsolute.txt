@@ -1,0 +1,2 @@
+C:\XamarinApps\Demos X\RoundedCorners\RoundedCorners\RoundedCorners.Android\obj\Debug\MonoAndroid71\RoundedCorners.Android.csprojAssemblyReference.cache
+C:\XamarinApps\Demos X\RoundedCorners\RoundedCorners\RoundedCorners.Android\obj\Debug\MonoAndroid71\res.flag
