@@ -1,0 +1,12 @@
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\bin\Debug\netstandard2.0\BluetoothDEMO.deps.json
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\bin\Debug\netstandard2.0\BluetoothDEMO.dll
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.csproj.CoreCompileInputs.cache
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.AssemblyInfoInputs.cache
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.AssemblyInfo.cs
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\bin\Debug\netstandard2.0\BluetoothDEMO.pdb
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.dll
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.pdb
+C:\XamarinApps\Demos X\BluetoothDEMO\BluetoothDEMO\BluetoothDEMO\obj\Debug\netstandard2.0\BluetoothDEMO.csprojAssemblyReference.cache
