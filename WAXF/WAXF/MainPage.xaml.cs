@@ -17,7 +17,7 @@ namespace WAXF
         {
             try
             {
-                Chat.Open("+525543484042", "Envia este texto... VGGL");
+                Chat.Open("+52 55 XX XX XX XX", "Envia este texto... VGGL");
             }
             catch (Exception ex)
             {
