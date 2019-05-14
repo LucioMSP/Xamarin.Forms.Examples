@@ -1,0 +1,12 @@
+/Users/vicente/Projects/WAXF/WAXF/bin/Debug/netstandard2.0/WAXF.deps.json
+/Users/vicente/Projects/WAXF/WAXF/bin/Debug/netstandard2.0/WAXF.dll
+/Users/vicente/Projects/WAXF/WAXF/bin/Debug/netstandard2.0/WAXF.pdb
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.csprojAssemblyReference.cache
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.csproj.CoreCompileInputs.cache
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.AssemblyInfoInputs.cache
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.AssemblyInfo.cs
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.dll
+/Users/vicente/Projects/WAXF/WAXF/obj/Debug/netstandard2.0/WAXF.pdb
