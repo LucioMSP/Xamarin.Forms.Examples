@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{56F23C45-4360-412D-87C2-5B5075367BDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyUISample/MainPage.xaml">
+    <Files>
+      <File FileName="CurrencyUISample/MainPage.xaml" Line="30" Column="23" />
+      <File FileName="CurrencyUISample/MainPage.xaml.cs" />
+      <File FileName="CurrencyUISample/ViewModels/MainPageVM.cs" />
+      <File FileName="CurrencyUISample/Converters/CurrencyConverter.cs" />
+      <File FileName="CurrencyUISample/Classes/ObservableObject.cs" />
+      <File FileName="CurrencyUISample/App.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CurrencyUISample" expanded="True" selected="True">
+            <Node name="CurrencyUISample" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="Converters" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CurrencyUISample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.69B0AA37-0AC9-4CED-B59A-5B9D1FA146A1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CurrencyUISample.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

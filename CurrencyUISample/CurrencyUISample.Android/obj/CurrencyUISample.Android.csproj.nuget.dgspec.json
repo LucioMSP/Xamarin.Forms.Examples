@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.Android/CurrencyUISample.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.Android/CurrencyUISample.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.Android/CurrencyUISample.Android.csproj",
+        "projectName": "CurrencyUISample.Android",
+        "projectPath": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.Android/CurrencyUISample.Android.csproj",
+        "packagesPath": "/Users/vicente/.nuget/packages/",
+        "outputPath": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/vicente/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/CurrencyUISample.csproj": {
+                "projectPath": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/CurrencyUISample.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.425677, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/CurrencyUISample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/CurrencyUISample.csproj",
+        "projectName": "CurrencyUISample",
+        "projectPath": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/CurrencyUISample.csproj",
+        "packagesPath": "/Users/vicente/.nuget/packages/",
+        "outputPath": "/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vicente/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.425677, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:util="clr-namespace:CurrencyUISample.Converters;assembly=CurrencyUISample"
+             mc:Ignorable="d" x:Class="CurrencyUISample.MainPage"
+             BackgroundColor="{StaticResource Bluebull}">
+    
+    <ContentPage.Resources>
+     <ResourceDictionary>
+      <util:CurrencyConverter x:Key="currencyConverter" />
+     </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <Grid>
+       <Image Source="blue_bull.png" HeightRequest="90" WidthRequest="90"
+              VerticalOptions="End" HorizontalOptions="End"/>
+   
+        <StackLayout>
+            <Frame HasShadow="false"
+                   BackgroundColor="{StaticResource colorBankAmerica}">
+             <StackLayout Orientation="Horizontal" >
+                <Image Source="logoBankAmerica.png"
+                       HeightRequest="120"
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="CenterAndExpand"/>
+             </StackLayout>
+            </Frame> 
+        </StackLayout>
+        
+     <StackLayout HorizontalOptions="FillAndExpand"
+                  VerticalOptions="Center"
+                  Orientation="Vertical"
+                  Margin="10,0,10,0">
+            
+        <Label Text="Quantity to Transfer" TextColor="White"/>
+         <Entry x:Name="NumbertoMoney" Keyboard="Numeric"
+                Text="{Binding NumbertoMoney, Converter={StaticResource currencyConverter}}"/>
+            
+        <Label Text="Concept" TextColor="White"/>
+        <Editor x:Name="conceptEdt" VerticalOptions="FillAndExpand" Keyboard="Default"
+                Text="" HeightRequest="50" IsTextPredictionEnabled="true" />
+            
+        <Label Text="Date" TextColor="White"/>
+        <DatePicker x:Name="datePck"/>
+        
+        <BoxView HorizontalOptions="FillAndExpand"
+                 Color="{StaticResource Secondary}"
+                 Visual="Default"
+                 HeightRequest="1"
+                 Margin="0,30"/>
+                
+        <Button x:Name="transferBtn"
+                Text="Make a Transfer"
+                BackgroundColor="White"
+                CornerRadius="26"
+                FontSize="18"
+                Padding="15"
+                TextColor="{StaticResource Bluebull}"
+                Margin="30,0,30,30"/>
+        
+       </StackLayout>
+         
+    </Grid >
+</ContentPage>

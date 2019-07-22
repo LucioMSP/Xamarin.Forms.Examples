@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample.iOS/obj/iPhone/Debug/device-builds/iphone8.2-12.3.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

@@ -1,0 +1,13 @@
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/bin/Debug/netstandard2.0/CurrencyUISample.deps.json
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/bin/Debug/netstandard2.0/CurrencyUISample.dll
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/bin/Debug/netstandard2.0/ref/CurrencyUISample.dll
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/bin/Debug/netstandard2.0/CurrencyUISample.pdb
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/CurrencyUISample.csproj.CoreCompileInputs.cache
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/CurrencyUISample.AssemblyInfoInputs.cache
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/CurrencyUISample.AssemblyInfo.cs
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/CurrencyUISample.dll
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/ref/CurrencyUISample.dll
+/Users/vicente/Xamarin_Apps/CurrencyUISample/CurrencyUISample/obj/Debug/netstandard2.0/CurrencyUISample.pdb
