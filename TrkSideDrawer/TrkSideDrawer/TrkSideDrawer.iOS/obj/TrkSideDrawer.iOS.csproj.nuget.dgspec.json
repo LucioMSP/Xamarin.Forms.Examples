@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj",
+        "projectName": "TrkSideDrawer.iOS",
+        "projectPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj",
+        "packagesPath": "/Users/vicente/.nuget/packages/",
+        "outputPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/vicente/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj": {
+                "projectPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj",
+        "projectName": "TrkSideDrawer",
+        "projectPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj",
+        "packagesPath": "/Users/vicente/.nuget/packages/",
+        "outputPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vicente/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Telerik.UI.for.Xamarin": {
+              "target": "Package",
+              "version": "[2017.3.913.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

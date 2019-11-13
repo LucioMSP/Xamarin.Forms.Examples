@@ -1,0 +1,15 @@
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/bin/Debug/netstandard2.0/TrkSideDrawer.deps.json
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/bin/Debug/netstandard2.0/TrkSideDrawer.dll
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/bin/Debug/netstandard2.0/ref/TrkSideDrawer.dll
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/bin/Debug/netstandard2.0/TrkSideDrawer.pdb
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/Views/LocationPage.xaml.g.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/Views/SideDrawerXAML.xaml.g.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/Views/TransitionsPage.xaml.g.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/TrkSideDrawer.AssemblyInfoInputs.cache
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/TrkSideDrawer.AssemblyInfo.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/TrkSideDrawer.dll
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/ref/TrkSideDrawer.dll
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/obj/Debug/netstandard2.0/TrkSideDrawer.pdb

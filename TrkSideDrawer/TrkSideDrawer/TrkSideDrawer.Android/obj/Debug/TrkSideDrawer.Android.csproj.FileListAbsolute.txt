@@ -1,0 +1,4 @@
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.Android/obj/Debug/MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.Android/obj/Debug/build.props
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.Android/obj/Debug/adb.props
+/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.Android/obj/Debug/TrkSideDrawer.Android.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrkSideDrawer.Views.SideDrawerXAML"
+             xmlns:telerik="clr-namespace:Telerik.XamarinForms.Primitives;assembly=Telerik.XamarinForms.Primitives">
+    
+        <telerik:RadSideDrawer x:Name="Drawer" DrawerLength="200" >
+            <telerik:RadSideDrawer.MainContent>
+            <Label Text="Side Menu" Margin="15,50"/>
+        </telerik:RadSideDrawer.MainContent>
+
+        <telerik:RadSideDrawer.DrawerContent>
+            <StackLayout Margin="0,38">
+                <Button Text="Home" />
+                <Button Text="Calendar" />
+                <Button Text="News" />
+            </StackLayout>
+        </telerik:RadSideDrawer.DrawerContent>
+    </telerik:RadSideDrawer>
+
+ </ContentPage>

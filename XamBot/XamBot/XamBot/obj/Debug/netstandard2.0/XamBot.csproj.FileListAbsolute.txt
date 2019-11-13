@@ -1,7 +1,6 @@
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\bin\Debug\netstandard2.0\XamBot.deps.json
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\bin\Debug\netstandard2.0\XamBot.dll
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\bin\Debug\netstandard2.0\XamBot.pdb
-C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.csprojResolveAssemblyReference.cache
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.csproj.CoreCompileInputs.cache
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.App.xaml.g.cs
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.MainPage.xaml.g.cs
@@ -10,3 +9,4 @@ C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.Asse
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.AssemblyInfo.cs
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.dll
 C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.pdb
+C:\XamarinApps\Demos X\XamBot\XamBot\XamBot\obj\Debug\netstandard2.0\XamBot.csprojAssemblyReference.cache

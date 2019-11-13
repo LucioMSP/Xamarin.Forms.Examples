@@ -1,0 +1,1767 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.IO.Compression.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlert
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlertAction
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlertButtonsView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlertContentView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlertStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAlertView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteCoverView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteSuggestionCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteTextView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteToken
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteTokenHolderView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteTokenRemoveButton
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKAutoCompleteTokenView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKBalloonShape
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendar
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarCellStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayCellStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayNameCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewAllDayEventCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewAllDayEventCellStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewAllDayEventsView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewAllDayEventsViewStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewEventCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewEventCellStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewEventsLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewEventsView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewEventsViewStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewPresenterStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewTimeLine
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarDayViewTimeLineLayoutAttributes
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarEvent
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarEventKitDataSource
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarFlowPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarInlineView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarInlineViewTableViewCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarInlineViewTableViewCellStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarIPadTheme
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthNameCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthNamesPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthPresenterStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthTitleCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarMonthViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarPresenterBase
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarTitleCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarWeekDayCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarWeekNumberCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarWeekPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearNumberCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearNumbersPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearPresenter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearPresenterStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearTitleView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCalendarYearViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChart
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAbsoluteVolumeOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAccumulationDistributionLine
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAdaptiveMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAnnotationStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAreaSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAverageTrueRangeIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisLabelStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisMajorTickStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisRender
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisTickStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartAxisTitleStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBalloonAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBalloonAnnotationStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBandAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBandAnnotationStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBandIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBandVisualPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBarSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBollingerBandIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBubbleDataPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBubbleSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartBubbleVisualPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartCandlestickSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartCategoryAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartChaikinOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartColumnSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartCommodityChannelIndex
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartCrossLineAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartCrossLineAnnotationStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartDataPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartDateTimeAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartDateTimeCategoryAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartDetrendedPriceOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartDonutSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartEaseOfMovementIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartExponentialMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartFastStochasticIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartFinancialDataPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartFinancialIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartForceIndexIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartFullStochasticIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartGridLineAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartGridLineAnnotationStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartGridStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLabelStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLayerAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLegendContainer
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLegendItem
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLegendItemStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLegendStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLegendView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLineSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartLogarithmicAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartMACDIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartMarketFacilitationIndex
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartMedianPriceIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartModifiedMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartMoneyFlowIndexIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartMovingAverageEnvelopesIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartNegativeVolumeIndexIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartNumericAxis
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartOhlcSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartOnBalanceVolumeIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPalette
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPaletteItem
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPercentagePriceOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPercentageVolumeOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPieSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPieVisualPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPlotView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPointAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPointLabel
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPointLabelRender
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPointLabelStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPositiveVolumeIndexIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartPriceVolumeTrendIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRangeBarSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRangeColumnSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRangeDataPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRangeVisualPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRapidAdaptiveVarianceIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRateOfChangeIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRelativeMomentumIndex
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRelativeStrengthIndex
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartRender
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartScatterSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSelectionInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSeriesRender
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSeriesRenderState
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSeriesStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSignalLineIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSimpleMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSlowStochasticIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSplineAreaSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartSplineSeries
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartStackInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartStandardDeviationIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTitleStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTitleView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTrackball
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTrackballLineAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTrackballTooltipAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTriangularMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTRIXIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTrueRangeIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartTypicalPriceIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartUltimateOscillator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartViewAnnotation
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartVisualPoint
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartWeightedCloseIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartWeightedMovingAverageIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKChartWilliamsPercentIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCheckView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCollectionViewCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCoreLayoutItem
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCoreStackLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKCoreStackLayoutView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataForm
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormAccessoryView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormAutocompleteController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormAutocompleteEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormAutoCompleteInlineEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormDatePickerEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormDecimalEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormEditorStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormEmailEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormEmailValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormEntityDataSource
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormGroupTitleStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormInlineEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormMaximumLengthValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormMinimumLengthValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormMultilineTextEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormNamePhoneEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormNonEmptyValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormNumberEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormOptionsEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormPasswordEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormPhoneEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormPhoneValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormPickerViewEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormPropertyValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormRangeValidator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormSegmentedEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormSliderEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormStepperEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormSwitchEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormTextFieldEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormTimePickerEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataFormViewControllerEditor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSource
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceAutoCompleteSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceCalendarSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceChartSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceCollectionViewSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceFilterDescriptor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceGroup
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceGroupDescriptor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceListViewSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceSortDescriptor
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDataSourceTableViewSettings
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKDateRange
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntity
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityProperty
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityPropertyGroup
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityPropertyGroupEditorsView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityPropertyGroupTitleView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityPropertyGroupTitleViewIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKEntityPropertyGroupView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesDetailViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesExampleInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesExampleViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesMasterViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesOptionInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesSectionInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKExamplesSplitViewController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKFeedback
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKFeedbackController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKFeedbackItem
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGauge
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeIndicator
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeLabels
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeLinearScale
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeNeedle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeRadialScale
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeScale
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeSegment
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGaugeTicks
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGradientFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGridLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKGridLayoutCellDefinition
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKImageFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKLabel
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKLayer
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKLayoutInfo
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKLinearGauge
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKLinearGradientFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewCellBackgroundView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+Field=TKListViewElementKindSectionFooter
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+Field=TKListViewElementKindSectionHeader
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewFooterCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewGridLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewHeaderCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewLinearLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewLoadOnDemandCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewLoadOnDemandView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewPullToRefreshView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewReusableCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKListViewStaggeredLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKModifiedTextField
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKMutableArray
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKPlatformFeedbackSource
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKPredefinedShape
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKRadialGauge
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKRadialGradientFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKRange
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKShape
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawer
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerController
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerHeader
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerItem
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerItemStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerSection
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerStyle
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerTableView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerTableViewCell
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerTransition
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSideDrawerView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSlideView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSolidFill
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStackLayout
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStroke
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStyleGroup
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStyleID
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStyleNode
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKStyleSheet
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKSuggestionListView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKTextField
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKTheme
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKView
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKViewTransition
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_TKWeakReference
+	/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Telerik.Xamarin.iOS.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

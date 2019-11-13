@@ -1,0 +1,1806 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {
+      "SkiaSharp/1.55.1": {
+        "type": "package",
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        }
+      },
+      "SkiaSharp.Views/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        }
+      },
+      "SkiaSharp.Views.Forms/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1",
+          "SkiaSharp.Views": "1.55.1",
+          "Xamarin.Forms": "2.3.0"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/xamarinios10/_._": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/_._": {}
+        }
+      },
+      "Telerik.UI.for.Xamarin/2017.3.913.3": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp.Views.Forms": "1.55.1",
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "compile": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "OpenTK-1.0"
+        ],
+        "compile": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "resource": {
+          "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "da"
+          },
+          "lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "de"
+          },
+          "lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "el"
+          },
+          "lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "es"
+          },
+          "lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "he"
+          },
+          "lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "id"
+          },
+          "lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "it"
+          },
+          "lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nb"
+          },
+          "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-br"
+          },
+          "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "th"
+          },
+          "lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "vi"
+          },
+          "lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "build": {
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "TrkSideDrawer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Telerik.UI.for.Xamarin": "2017.3.913.3",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "compile": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win": {
+      "SkiaSharp/1.55.1": {
+        "type": "package",
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        }
+      },
+      "SkiaSharp.Views/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        }
+      },
+      "SkiaSharp.Views.Forms/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1",
+          "SkiaSharp.Views": "1.55.1",
+          "Xamarin.Forms": "2.3.0"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/xamarinios10/_._": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/_._": {}
+        }
+      },
+      "Telerik.UI.for.Xamarin/2017.3.913.3": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp.Views.Forms": "1.55.1",
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "compile": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "OpenTK-1.0"
+        ],
+        "compile": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "resource": {
+          "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "da"
+          },
+          "lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "de"
+          },
+          "lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "el"
+          },
+          "lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "es"
+          },
+          "lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "he"
+          },
+          "lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "id"
+          },
+          "lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "it"
+          },
+          "lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nb"
+          },
+          "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-br"
+          },
+          "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "th"
+          },
+          "lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "vi"
+          },
+          "lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "build": {
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "TrkSideDrawer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Telerik.UI.for.Xamarin": "2017.3.913.3",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "compile": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x64": {
+      "SkiaSharp/1.55.1": {
+        "type": "package",
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        }
+      },
+      "SkiaSharp.Views/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        }
+      },
+      "SkiaSharp.Views.Forms/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1",
+          "SkiaSharp.Views": "1.55.1",
+          "Xamarin.Forms": "2.3.0"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/xamarinios10/_._": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/_._": {}
+        }
+      },
+      "Telerik.UI.for.Xamarin/2017.3.913.3": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp.Views.Forms": "1.55.1",
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "compile": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "OpenTK-1.0"
+        ],
+        "compile": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "resource": {
+          "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "da"
+          },
+          "lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "de"
+          },
+          "lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "el"
+          },
+          "lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "es"
+          },
+          "lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "he"
+          },
+          "lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "id"
+          },
+          "lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "it"
+          },
+          "lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nb"
+          },
+          "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-br"
+          },
+          "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "th"
+          },
+          "lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "vi"
+          },
+          "lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "build": {
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "TrkSideDrawer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Telerik.UI.for.Xamarin": "2017.3.913.3",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "compile": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        }
+      }
+    },
+    "Xamarin.iOS,Version=v1.0/win-x86": {
+      "SkiaSharp/1.55.1": {
+        "type": "package",
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.dll": {}
+        }
+      },
+      "SkiaSharp.Views/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.iOS.dll": {}
+        }
+      },
+      "SkiaSharp.Views.Forms/1.55.1": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp": "1.55.1",
+          "SkiaSharp.Views": "1.55.1",
+          "Xamarin.Forms": "2.3.0"
+        },
+        "compile": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/XamariniOS/SkiaSharp.Views.Forms.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/xamarinios10/_._": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/_._": {}
+        }
+      },
+      "Telerik.UI.for.Xamarin/2017.3.913.3": {
+        "type": "package",
+        "dependencies": {
+          "SkiaSharp.Views.Forms": "1.55.1",
+          "Xamarin.Forms": "2.3.4.247"
+        },
+        "compile": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Telerik.Xamarin.iOS.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Chart.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Common.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Input.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll": {},
+          "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll": {}
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "OpenTK-1.0"
+        ],
+        "compile": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+        },
+        "resource": {
+          "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ar"
+          },
+          "lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ca"
+          },
+          "lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "da"
+          },
+          "lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "de"
+          },
+          "lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "el"
+          },
+          "lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "es"
+          },
+          "lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "he"
+          },
+          "lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hi"
+          },
+          "lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hr"
+          },
+          "lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "id"
+          },
+          "lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "it"
+          },
+          "lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ms"
+          },
+          "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nb"
+          },
+          "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-br"
+          },
+          "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "th"
+          },
+          "lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "uk"
+          },
+          "lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "vi"
+          },
+          "lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-HK"
+          },
+          "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        },
+        "build": {
+          "build/Xamarin.Forms.props": {},
+          "build/Xamarin.Forms.targets": {}
+        }
+      },
+      "TrkSideDrawer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Telerik.UI.for.Xamarin": "2017.3.913.3",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "compile": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrkSideDrawer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SkiaSharp/1.55.1": {
+      "sha512": "bVbdDNK0fY3cypJn6eu7X3+Hf89abs0MET8ScHTwVOZL383wFnMVjfUM/2yhazRoLbiK6TsKaX+2OTHqQMW/qg==",
+      "type": "package",
+      "path": "skiasharp/1.55.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/XamarinMac/SkiaSharp.targets",
+        "build/XamarinMac/libSkiaSharp.dylib",
+        "build/net45/SkiaSharp.dll.config",
+        "build/net45/SkiaSharp.targets",
+        "build/net45/mac/libSkiaSharp.dylib",
+        "build/net45/x64/libSkiaSharp.dll",
+        "build/net45/x86/libSkiaSharp.dll",
+        "build/uap10.0/SkiaSharp.targets",
+        "build/uap10.0/arm/libSkiaSharp.dll",
+        "build/uap10.0/x64/libSkiaSharp.dll",
+        "build/uap10.0/x86/libSkiaSharp.dll",
+        "lib/MonoAndroid/SkiaSharp.dll",
+        "lib/MonoAndroid/SkiaSharp.xml",
+        "lib/XamarinMac/SkiaSharp.dll",
+        "lib/XamarinMac/SkiaSharp.xml",
+        "lib/XamariniOS/SkiaSharp.dll",
+        "lib/XamariniOS/SkiaSharp.xml",
+        "lib/XamarintvOS/SkiaSharp.dll",
+        "lib/XamarintvOS/SkiaSharp.xml",
+        "lib/net45/SkiaSharp.dll",
+        "lib/net45/SkiaSharp.dll.config",
+        "lib/net45/SkiaSharp.xml",
+        "lib/portable-net45+win8+wpa81+wp8/SkiaSharp.dll",
+        "lib/portable-net45+win8+wpa81+wp8/SkiaSharp.xml",
+        "lib/uap10.0/SkiaSharp.dll",
+        "lib/uap10.0/SkiaSharp.xml",
+        "skiasharp.1.55.1.nupkg.sha512",
+        "skiasharp.nuspec"
+      ]
+    },
+    "SkiaSharp.Views/1.55.1": {
+      "sha512": "xbo8bX4sFUaqxezodlnbBIpYD2B7kiEj3CYvjY3TOWE2hF/A2pdgluFY+hisMWpY5szypba1NbFwOhu1SNzMsA==",
+      "type": "package",
+      "path": "skiasharp.views/1.55.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/uap10.0/SkiaSharp.Views.targets",
+        "build/uap10.0/arm/libEGL.dll",
+        "build/uap10.0/arm/libGLESv2.dll",
+        "build/uap10.0/x64/libEGL.dll",
+        "build/uap10.0/x64/libGLESv2.dll",
+        "build/uap10.0/x86/libEGL.dll",
+        "build/uap10.0/x86/libGLESv2.dll",
+        "lib/MonoAndroid/SkiaSharp.Views.Android.dll",
+        "lib/XamarinMac/SkiaSharp.Views.Mac.dll",
+        "lib/XamariniOS/SkiaSharp.Views.iOS.dll",
+        "lib/XamarintvOS/SkiaSharp.Views.tvOS.dll",
+        "lib/net45/SkiaSharp.Views.Desktop.dll",
+        "lib/net45/SkiaSharp.Views.WPF.dll",
+        "lib/uap10.0/SkiaSharp.Views.UWP.dll",
+        "skiasharp.views.1.55.1.nupkg.sha512",
+        "skiasharp.views.nuspec"
+      ]
+    },
+    "SkiaSharp.Views.Forms/1.55.1": {
+      "sha512": "sTvtMPkF821PSwiEJbhaaFcaceD1VHp5hYv0X6LBp6ch4NLChY7wi7Y6noRTNpR+xZTV2qlB4tSDybXdpu+EFg==",
+      "type": "package",
+      "path": "skiasharp.views.forms/1.55.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/SkiaSharp.Views.Forms.dll",
+        "lib/XamariniOS/SkiaSharp.Views.Forms.dll",
+        "lib/portable-net45+win8+wpa81+wp8/SkiaSharp.Views.Forms.dll",
+        "lib/uap10.0/SkiaSharp.Views.Forms.dll",
+        "skiasharp.views.forms.1.55.1.nupkg.sha512",
+        "skiasharp.views.forms.nuspec"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Telerik.UI.for.Xamarin/2017.3.913.3": {
+      "sha512": "5eXPML0Oibh+sM+jnFWV62X3D+Gc7OgxeyH1RKF75Y6n5svu14qAb65TG9wnpbRriCfaXcctj6a//FExWSiUYw==",
+      "type": "package",
+      "path": "telerik.ui.for.xamarin/2017.3.913.3",
+      "files": [
+        ".nupkg.metadata",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.Chart.dll",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.Common.dll",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.Data.dll",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.Input.dll",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.List.dll",
+        "lib/MonoAndroid10/Telerik.Xamarin.Android.Primitives.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.Chart.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.Common.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.DataControls.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.DataGrid.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.DataVisualization.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.Input.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.Primitives.dll",
+        "lib/MonoAndroid10/Telerik.XamarinForms.SkiaSharp.dll",
+        "lib/WP80/Telerik.Windows.Controls.Chart.dll",
+        "lib/WP80/Telerik.Windows.Controls.Input.dll",
+        "lib/WP80/Telerik.Windows.Controls.Primitives.dll",
+        "lib/WP80/Telerik.Windows.Core.dll",
+        "lib/WP80/Telerik.XamarinForms.Chart.dll",
+        "lib/WP80/Telerik.XamarinForms.Common.dll",
+        "lib/WP80/Telerik.XamarinForms.Input.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.Documents.SpreadsheetStreaming.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.Chart.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.Common.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.DataControls.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.DataGrid.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.DataVisualization.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.Input.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.Primitives.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.XamarinForms.SkiaSharp.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Telerik.Zip.dll",
+        "lib/uap10.0/ListView/Resources/reorder-handle-dark.png",
+        "lib/uap10.0/ListView/Resources/reorder-handle-light.png",
+        "lib/uap10.0/Telerik.Core.dll",
+        "lib/uap10.0/Telerik.Core/Properties/default.rd.xml",
+        "lib/uap10.0/Telerik.Data.dll",
+        "lib/uap10.0/Telerik.Data/Properties/default.rd.xml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP.dll",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP.pri",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Telerik.UI.Xaml.Chart.UWP.xr.xml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/Generic.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/Generic.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesDark.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesDark.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesHighContrast.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesHighContrast.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesLight.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Chart.UWP/Themes/ThemeResourcesLight.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP.dll",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP.pri",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/ListView/Resources/reorder-handle-dark.png",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/ListView/Resources/reorder-handle-light.png",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Telerik.UI.Xaml.Controls.Data.UWP.xr.xml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/DataForm.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/DataForm.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/Generic.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/Generic.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/Listbox.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/Listbox.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesDark.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesDark.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesHighContrast.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesHighContrast.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesLight.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Controls.Data.UWP/Themes/ThemeResourcesLight.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP.dll",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP.pri",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Telerik.UI.Xaml.Input.UWP.xr.xml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Calendar.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Calendar.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/CommonResources.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/CommonResources.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Generic.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Generic.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Resources.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/Resources.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesDark.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesDark.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesHighContrast.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesHighContrast.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesLight.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Input.UWP/Themes/ThemeResourcesLight.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP.dll",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP.pri",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Telerik.UI.Xaml.Primitives.UWP.xr.xml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/Generic.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/Generic.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/HubTilePalette.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/HubTilePalette.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/Resources.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/Resources.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/SharedResources.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/SharedResources.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsDark.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsDark.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsHighContrast.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsHighContrast.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsLight.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeColorsLight.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesDark.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesDark.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesHighContrast.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesHighContrast.xbf",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesLight.xaml",
+        "lib/uap10.0/Telerik.UI.Xaml.Primitives.UWP/Themes/ThemeResourcesLight.xbf",
+        "lib/uap10.0/Telerik.XamarinForms.Chart.XML",
+        "lib/uap10.0/Telerik.XamarinForms.Chart.dll",
+        "lib/uap10.0/Telerik.XamarinForms.Chart.pri",
+        "lib/uap10.0/Telerik.XamarinForms.Chart.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.Chart/Telerik.XamarinForms.Chart.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.Common.XML",
+        "lib/uap10.0/Telerik.XamarinForms.Common.dll",
+        "lib/uap10.0/Telerik.XamarinForms.Common.pri",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls.XML",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls.dll",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls.pri",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls/Resources/DataControlsTemplatesUWP.xbf",
+        "lib/uap10.0/Telerik.XamarinForms.DataControls/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.DataGrid.XML",
+        "lib/uap10.0/Telerik.XamarinForms.DataGrid.dll",
+        "lib/uap10.0/Telerik.XamarinForms.DataGrid.dll.config",
+        "lib/uap10.0/Telerik.XamarinForms.DataVisualization.XML",
+        "lib/uap10.0/Telerik.XamarinForms.DataVisualization.dll",
+        "lib/uap10.0/Telerik.XamarinForms.DataVisualization.dll.config",
+        "lib/uap10.0/Telerik.XamarinForms.Input.XML",
+        "lib/uap10.0/Telerik.XamarinForms.Input.dll",
+        "lib/uap10.0/Telerik.XamarinForms.Input.pri",
+        "lib/uap10.0/Telerik.XamarinForms.Input.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.Input/Telerik.XamarinForms.Input.xr.xml",
+        "lib/uap10.0/Telerik.XamarinForms.Primitives.XML",
+        "lib/uap10.0/Telerik.XamarinForms.Primitives.dll",
+        "lib/uap10.0/Telerik.XamarinForms.Primitives.pri",
+        "lib/uap10.0/Telerik.XamarinForms.SkiaSharp.XML",
+        "lib/uap10.0/Telerik.XamarinForms.SkiaSharp.dll",
+        "lib/uap10.0/Telerik.XamarinForms.SkiaSharp.dll.config",
+        "lib/win81/Telerik.Core.XML",
+        "lib/win81/Telerik.Core.dll",
+        "lib/win81/Telerik.Core.pri",
+        "lib/win81/Telerik.Data.XML",
+        "lib/win81/Telerik.Data.dll",
+        "lib/win81/Telerik.Data.pri",
+        "lib/win81/Telerik.UI.Xaml.Chart.XML",
+        "lib/win81/Telerik.UI.Xaml.Chart.dll",
+        "lib/win81/Telerik.UI.Xaml.Chart.pri",
+        "lib/win81/Telerik.UI.Xaml.Chart/CustomDictionary.xml",
+        "lib/win81/Telerik.UI.Xaml.Chart/Telerik.UI.Xaml.Chart.xr.xml",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/Generic.xaml",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/Generic.xbf",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesDark.xaml",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesDark.xbf",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesLight.xaml",
+        "lib/win81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesLight.xbf",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data.XML",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data.dll",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data.pri",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/ListView/Resources/reorder-handle-dark.png",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/ListView/Resources/reorder-handle-light.png",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data.xr.xml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/DataForm.xaml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/DataForm.xbf",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xaml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xbf",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/Listbox.xaml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/Listbox.xbf",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xaml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xbf",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xaml",
+        "lib/win81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input.XML",
+        "lib/win81/Telerik.UI.Xaml.Input.dll",
+        "lib/win81/Telerik.UI.Xaml.Input.pri",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/antique.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/basic-group.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/brightness.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/cancel.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/compare.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/contrast.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/effects.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/fliph.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/flipv.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/grayscale.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/hue.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/lomo.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/minus.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/moonlight.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/negative.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/noeffect.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/plus.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/posterize.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/redo.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/resize.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/rotateCCW.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/rotateCW.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/saturation.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/save.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/sepia.jpg",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/sharpness.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/temperature.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/transform.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/undo.png",
+        "lib/win81/Telerik.UI.Xaml.Input/ImageEditor/Icons/vibrance.png",
+        "lib/win81/Telerik.UI.Xaml.Input/Telerik.UI.Xaml.Input.xr.xml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Calendar.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Calendar.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/CommonResources.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/CommonResources.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Generic.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Generic.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ImageEditor.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ImageEditor.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ImageEditorStyles.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ImageEditorStyles.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Resources.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/Resources.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xbf",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xaml",
+        "lib/win81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives.XML",
+        "lib/win81/Telerik.UI.Xaml.Primitives.dll",
+        "lib/win81/Telerik.UI.Xaml.Primitives.pri",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Telerik.UI.Xaml.Primitives.xr.xml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/Generic.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/Generic.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/Resources.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/Resources.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/SharedResources.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/SharedResources.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xbf",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xaml",
+        "lib/win81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xbf",
+        "lib/win81/Telerik.XamarinForms.Chart.XML",
+        "lib/win81/Telerik.XamarinForms.Chart.dll",
+        "lib/win81/Telerik.XamarinForms.Chart.pri",
+        "lib/win81/Telerik.XamarinForms.Common.XML",
+        "lib/win81/Telerik.XamarinForms.Common.dll",
+        "lib/win81/Telerik.XamarinForms.Common.pri",
+        "lib/win81/Telerik.XamarinForms.DataControls.XML",
+        "lib/win81/Telerik.XamarinForms.DataControls.dll",
+        "lib/win81/Telerik.XamarinForms.DataControls.pri",
+        "lib/win81/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/win81/Telerik.XamarinForms.DataControls/Resources/DataControlsTemplates.xbf",
+        "lib/win81/Telerik.XamarinForms.DataControls/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/win81/Telerik.XamarinForms.Input.XML",
+        "lib/win81/Telerik.XamarinForms.Input.dll",
+        "lib/win81/Telerik.XamarinForms.Input.pri",
+        "lib/win81/Telerik.XamarinForms.Input.xr.xml",
+        "lib/win81/Telerik.XamarinForms.Input/Resources/InputControlsTemplates.xbf",
+        "lib/win81/Telerik.XamarinForms.Input/Telerik.XamarinForms.Input.xr.xml",
+        "lib/win81/Telerik.XamarinForms.Primitives.XML",
+        "lib/win81/Telerik.XamarinForms.Primitives.dll",
+        "lib/win81/Telerik.XamarinForms.Primitives.pri",
+        "lib/wpa81/Telerik.Core.XML",
+        "lib/wpa81/Telerik.Core.dll",
+        "lib/wpa81/Telerik.Core.pri",
+        "lib/wpa81/Telerik.Data.XML",
+        "lib/wpa81/Telerik.Data.dll",
+        "lib/wpa81/Telerik.Data.pri",
+        "lib/wpa81/Telerik.UI.Xaml.Chart.XML",
+        "lib/wpa81/Telerik.UI.Xaml.Chart.dll",
+        "lib/wpa81/Telerik.UI.Xaml.Chart.pri",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/CustomDictionary.xml",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Telerik.UI.Xaml.Chart.xr.xml",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/Generic.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/Generic.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesDark.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesDark.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesLight.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Chart/Themes/ThemeResourcesLight.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data.XML",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data.dll",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data.pri",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/ListView/Resources/reorder-handle-dark.png",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/ListView/Resources/reorder-handle-light.png",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Telerik.UI.Xaml.Controls.Data.xr.xml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/DataForm.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/DataForm.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/Generic.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ListBox.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ListBox.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesDark.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Controls.Data/Themes/ThemeResourcesLight.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input.XML",
+        "lib/wpa81/Telerik.UI.Xaml.Input.dll",
+        "lib/wpa81/Telerik.UI.Xaml.Input.pri",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/antique.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/basic-group.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/brightness.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/cancel.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/compare.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/contrast.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/effects.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/fliph.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/flipv.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/grayscale.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/hue.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/lomo.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/minus.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/moonlight.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/negative.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/noeffect.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/plus.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/posterize.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/redo.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/resize.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/rotateCCW.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/rotateCW.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/saturation.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/save.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/sepia.jpg",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/sharpness.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/temperature.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/transform.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/undo.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/ImageEditor/Icons/vibrance.png",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Telerik.UI.Xaml.Input.xr.xml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Calendar.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Calendar.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/CommonResources.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/CommonResources.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Generic.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Generic.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ImageEditor.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ImageEditor.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ImageEditorStyles.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ImageEditorStyles.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Resources.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/Resources.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesDark.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Input/Themes/ThemeResourcesLight.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives.XML",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives.dll",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives.pri",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Telerik.UI.Xaml.Primitives.xr.xml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/Generic.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/Generic.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/HubTilePalette.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/Resources.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/Resources.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/SharedResources.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/SharedResources.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsDark.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeColorsLight.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesDark.xbf",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xaml",
+        "lib/wpa81/Telerik.UI.Xaml.Primitives/Themes/ThemeResourcesLight.xbf",
+        "lib/wpa81/Telerik.XamarinForms.Chart.XML",
+        "lib/wpa81/Telerik.XamarinForms.Chart.dll",
+        "lib/wpa81/Telerik.XamarinForms.Chart.pri",
+        "lib/wpa81/Telerik.XamarinForms.Common.XML",
+        "lib/wpa81/Telerik.XamarinForms.Common.dll",
+        "lib/wpa81/Telerik.XamarinForms.Common.pri",
+        "lib/wpa81/Telerik.XamarinForms.DataControls.XML",
+        "lib/wpa81/Telerik.XamarinForms.DataControls.dll",
+        "lib/wpa81/Telerik.XamarinForms.DataControls.pri",
+        "lib/wpa81/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/wpa81/Telerik.XamarinForms.DataControls/Resources/DataControlsTemplates.xbf",
+        "lib/wpa81/Telerik.XamarinForms.DataControls/Telerik.XamarinForms.DataControls.xr.xml",
+        "lib/wpa81/Telerik.XamarinForms.Input.XML",
+        "lib/wpa81/Telerik.XamarinForms.Input.dll",
+        "lib/wpa81/Telerik.XamarinForms.Input.pri",
+        "lib/wpa81/Telerik.XamarinForms.Input.xr.xml",
+        "lib/wpa81/Telerik.XamarinForms.Input/Resources/InputControlsTemplates.xbf",
+        "lib/wpa81/Telerik.XamarinForms.Input/Telerik.XamarinForms.Input.xr.xml",
+        "lib/wpa81/Telerik.XamarinForms.Primitives.XML",
+        "lib/wpa81/Telerik.XamarinForms.Primitives.dll",
+        "lib/wpa81/Telerik.XamarinForms.Primitives.pri",
+        "lib/xamarinios10/Telerik.Xamarin.iOS.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.Chart.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.Common.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.DataControls.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.DataGrid.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.DataVisualization.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.Input.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.Primitives.dll",
+        "lib/xamarinios10/Telerik.XamarinForms.SkiaSharp.dll",
+        "telerik.ui.for.xamarin.2017.3.913.3.nupkg.sha512",
+        "telerik.ui.for.xamarin.nuspec"
+      ]
+    },
+    "Xamarin.Essentials/1.2.0": {
+      "sha512": "o3i5uAchUpAvAlJX0onYFFiDo6jpKl9vgvrdDtXEuEfum0UDrSx8oGGBUjlFyUoRpvWVumXwo0VS3AbzuwEofg==",
+      "type": "package",
+      "path": "xamarin.essentials/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid60/Xamarin.Essentials.dll",
+        "lib/monoandroid60/Xamarin.Essentials.pdb",
+        "lib/monoandroid60/Xamarin.Essentials.xml",
+        "lib/monoandroid70/Xamarin.Essentials.dll",
+        "lib/monoandroid70/Xamarin.Essentials.pdb",
+        "lib/monoandroid70/Xamarin.Essentials.xml",
+        "lib/monoandroid71/Xamarin.Essentials.dll",
+        "lib/monoandroid71/Xamarin.Essentials.pdb",
+        "lib/monoandroid71/Xamarin.Essentials.xml",
+        "lib/monoandroid80/Xamarin.Essentials.dll",
+        "lib/monoandroid80/Xamarin.Essentials.pdb",
+        "lib/monoandroid80/Xamarin.Essentials.xml",
+        "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.pdb",
+        "lib/monoandroid81/Xamarin.Essentials.xml",
+        "lib/monoandroid90/Xamarin.Essentials.dll",
+        "lib/monoandroid90/Xamarin.Essentials.pdb",
+        "lib/monoandroid90/Xamarin.Essentials.xml",
+        "lib/netstandard1.0/Xamarin.Essentials.dll",
+        "lib/netstandard1.0/Xamarin.Essentials.pdb",
+        "lib/netstandard1.0/Xamarin.Essentials.xml",
+        "lib/netstandard2.0/Xamarin.Essentials.dll",
+        "lib/netstandard2.0/Xamarin.Essentials.pdb",
+        "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/uap10.0.16299/Xamarin.Essentials.dll",
+        "lib/uap10.0.16299/Xamarin.Essentials.pdb",
+        "lib/uap10.0.16299/Xamarin.Essentials.pri",
+        "lib/uap10.0.16299/Xamarin.Essentials.xml",
+        "lib/xamarinios10/Xamarin.Essentials.dll",
+        "lib/xamarinios10/Xamarin.Essentials.pdb",
+        "lib/xamarinios10/Xamarin.Essentials.xml",
+        "readme.txt",
+        "xamarin.essentials.1.2.0.nupkg.sha512",
+        "xamarin.essentials.nuspec"
+      ]
+    },
+    "Xamarin.Forms/4.2.0.709249": {
+      "sha512": "3DWqPSn9kSKJW5mwjmICV/+4IpPQrequEN1VXUhsF0i9KKnfj49jFk9VbJnT9o2aesJAk00NED67XPbSmbxKjw==",
+      "type": "package",
+      "path": "xamarin.forms/4.2.0.709249",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MonoAndroid10/proguard.cfg",
+        "build/Xamarin.Forms.DefaultItems.props",
+        "build/Xamarin.Forms.DefaultItems.targets",
+        "build/Xamarin.Forms.props",
+        "build/Xamarin.Forms.targets",
+        "build/net46/Mono.Cecil.Mdb.dll",
+        "build/net46/Mono.Cecil.Pdb.dll",
+        "build/net46/Mono.Cecil.Rocks.dll",
+        "build/net46/Mono.Cecil.dll",
+        "build/net46/System.ValueTuple.dll",
+        "build/net46/Xamarin.Forms.Build.Tasks.dll",
+        "build/net46/Xamarin.Forms.Core.dll",
+        "build/net46/Xamarin.Forms.Xaml.dll",
+        "build/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "build/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "build/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "build/netstandard2.0/Mono.Cecil.dll",
+        "build/netstandard2.0/System.CodeDom.dll",
+        "build/netstandard2.0/Xamarin.Forms.Build.Tasks.dll",
+        "build/netstandard2.0/Xamarin.Forms.Core.dll",
+        "build/netstandard2.0/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid81/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid81/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/MonoAndroid81/FormsViewGroup.dll",
+        "lib/MonoAndroid81/FormsViewGroup.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/de/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/de/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/es/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/es/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/fr/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/fr/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/it/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/it/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/ja/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/ja/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/ko/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/ko/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/pt-br/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/ru/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/ru/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/zh-Hans/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/zh-Hans/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/zh-Hant/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/zh-Hant/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid90/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/MonoAndroid90/FormsViewGroup.dll",
+        "lib/MonoAndroid90/FormsViewGroup.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/de/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/de/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/es/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/es/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/fr/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/fr/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/it/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/it/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/ja/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/ja/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/ko/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/ko/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/pt-br/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/ru/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/ru/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/zh-Hans/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/zh-Hans/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/zh-Hant/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/zh-Hant/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.Mac/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/Xamarin.Mac/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Core.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Platform.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Platform.macOS.dll",
+        "lib/Xamarin.Mac/Xamarin.Forms.Xaml.dll",
+        "lib/Xamarin.iOS10/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/Xamarin.iOS10/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Core.pdb",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.pdb",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.pdb",
+        "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/de/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/de/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/es/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/es/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/fr/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/fr/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/it/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/it/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/ja/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ja/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/ko/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ko/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ru/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/ru/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard1.0/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/netstandard1.0/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Core.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Core.pdb",
+        "lib/netstandard1.0/Xamarin.Forms.Core.xml",
+        "lib/netstandard1.0/Xamarin.Forms.Platform.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Xaml.dll",
+        "lib/netstandard1.0/Xamarin.Forms.Xaml.pdb",
+        "lib/netstandard1.0/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/netstandard2.0/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Core.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Core.pdb",
+        "lib/netstandard2.0/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/Xamarin.Forms.Platform.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Xaml.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Xaml.pdb",
+        "lib/netstandard2.0/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/de/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/de/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/es/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/es/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/fr/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/fr/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/it/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/it/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/ja/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/ja/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/ko/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/ko/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/pt-br/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/ru/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/ru/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/zh-Hans/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/zh-Hans/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/zh-Hant/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/zh-Hant/Xamarin.Forms.Xaml.xml",
+        "lib/tizen40/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/tizen40/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/tizen40/Xamarin.Forms.Core.dll",
+        "lib/tizen40/Xamarin.Forms.Core.pdb",
+        "lib/tizen40/Xamarin.Forms.Core.xml",
+        "lib/tizen40/Xamarin.Forms.Platform.Tizen.dll",
+        "lib/tizen40/Xamarin.Forms.Platform.Tizen.pdb",
+        "lib/tizen40/Xamarin.Forms.Platform.dll",
+        "lib/tizen40/Xamarin.Forms.Xaml.dll",
+        "lib/tizen40/Xamarin.Forms.Xaml.pdb",
+        "lib/tizen40/Xamarin.Forms.Xaml.xml",
+        "lib/uap10.0/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/uap10.0/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/uap10.0/Xamarin.Forms.Core.dll",
+        "lib/uap10.0/Xamarin.Forms.Core.pdb",
+        "lib/uap10.0/Xamarin.Forms.Core.xml",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP.dll",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/StepperControl.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
+        "lib/uap10.0/Xamarin.Forms.Platform.dll",
+        "lib/uap10.0/Xamarin.Forms.Xaml.dll",
+        "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
+        "lib/uap10.0/Xamarin.Forms.Xaml.xml",
+        "xamarin.forms.4.2.0.709249.nupkg.sha512",
+        "xamarin.forms.nuspec"
+      ]
+    },
+    "TrkSideDrawer/1.0.0": {
+      "type": "project",
+      "path": "../TrkSideDrawer/TrkSideDrawer.csproj",
+      "msbuildProject": "../TrkSideDrawer/TrkSideDrawer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": [
+      "TrkSideDrawer >= 1.0.0",
+      "Xamarin.Essentials >= 1.2.0",
+      "Xamarin.Forms >= 4.2.0.709249"
+    ]
+  },
+  "packageFolders": {
+    "/Users/vicente/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj",
+      "projectName": "TrkSideDrawer.iOS",
+      "projectPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/TrkSideDrawer.iOS.csproj",
+      "packagesPath": "/Users/vicente/.nuget/packages/",
+      "outputPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer.iOS/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/vicente/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {
+            "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj": {
+              "projectPath": "/Users/vicente/Solutions/XamarinApps/TrkSideDrawer/TrkSideDrawer/TrkSideDrawer.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {
+        "dependencies": {
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[4.2.0.709249, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
