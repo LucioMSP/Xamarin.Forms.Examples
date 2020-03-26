@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimationBtn.Views.ActivityViewBtn">
+
+  <ContentView.Content>
+        <Grid
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand">
+            <Button
+                x:Name="CustomButtomActivity"
+                Text="{Binding ButtonText}"
+                Command="{Binding ButtonCommand}"
+                CommandParameter="{Binding ButtonCommandParameter}"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                BackgroundColor="{Binding ButtonBackgroundColor}"
+                TextColor="{Binding ButtonTextColor}"
+                BorderColor="{Binding ButtonBorderColor}"                
+                BorderWidth="{Binding ButtonBorderWidth}" 
+                BorderRadius="{Binding ButtonBorderRadius}"
+                Margin="0" />
+
+            <ActivityIndicator
+                x:Name="CustomButtomActivityIndicator"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Color="{Binding ColorActivity}"
+                Opacity="0"
+                IsRunning="{Binding IsBusy}"
+                IsVisible="{Binding IsBusy}"
+                IsEnabled="{Binding IsBusy}" />
+        </Grid>
+    </ContentView.Content>
+</ContentView>

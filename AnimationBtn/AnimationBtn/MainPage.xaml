@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#242c34"
+             x:Class="AnimationBtn.MainPage"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:custom="clr-namespace:AnimationBtn.Views">
+
+    <StackLayout HorizontalOptions="CenterAndExpand"
+                 VerticalOptions="CenterAndExpand">
+
+        <Image Source="xamarin.jpg"
+               Margin="0,0,0,20"/>
+
+        <Entry Visual="Material" 
+               Placeholder="Username" 
+               TextColor="White" 
+               BackgroundColor="Transparent"
+               Margin="50,0"/>
+
+        <Entry Visual="Material" 
+               Placeholder="Password" 
+               TextColor="White" 
+               IsPassword="True"
+               BackgroundColor="Transparent"
+               Margin="50,0"/>
+
+        <Grid Margin="0,25">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <custom:ActivityViewBtn Grid.Row="0"
+                                    x:Name="CustomButtomActivity"
+                                    VerticalOptions="Fill"
+                                    HorizontalOptions="Center"
+                                    ButtonText="LogIn"
+                                    ButtonBackgroundColor="Transparent"
+                                    ButtonBorderColor="White"
+                                    ButtonBorderWidth="2" 
+                                    ButtonTextColor="White"
+                                    ButtonBorderRadius="8"
+                                    Margin="50,0" 
+                                    HeightRequest="60"
+                                    WidthRequest="250"
+                                    IsBusy="False"
+                                    ColorActivity="White"
+                                    CustomButtomActivityClicked="Button_Clicked"/>
+
+            <custom:ViewBtn Grid.Row="1"
+                            x:Name="CustomFrame"
+                            VerticalOptions="Fill"
+                            HorizontalOptions="Center" 
+                            Margin="0,10"
+                            FrameHeightRequest="60"
+                            FrameWidthRequest="250"
+                            FrameBorderColor="White"
+                            FrameBackgroundColor="Transparent"
+                            LabelText="Example 02"
+                            ColorText="White"
+                            LabelIsVisible="True"
+                            LabelHorizontalTextAlignment ="Center"
+                            LabelVerticalTextAlignment="Center"
+                            LabelHorizontalOptions="CenterAndExpand"
+                            IsBusy="False"
+                            ColorActivity="White">
+
+                <custom:ViewBtn.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </custom:ViewBtn.GestureRecognizers>
+            </custom:ViewBtn>
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

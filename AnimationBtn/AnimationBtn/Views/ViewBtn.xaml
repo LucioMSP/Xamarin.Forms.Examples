@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimationBtn.Views.ViewBtn">
+
+   <ContentView.Content>
+
+        <Frame x:Name="CustomFrame"
+               CornerRadius="8"
+               Padding="0"
+               HasShadow="False"                
+               BorderColor="{Binding FrameBorderColor}"
+               BackgroundColor="{Binding FrameBackgroundColor}"               
+               HeightRequest="{Binding FrameHeightRequest}"               
+               WidthRequest="{Binding FrameWidthRequest}">
+
+            <StackLayout>
+                <Label x:Name="lblText" 
+                       FontAttributes="Bold"
+                       IsVisible="{Binding LabelIsVisible}"
+                       HorizontalTextAlignment="{Binding LabelHorizontalTextAlignment}" 
+                       VerticalTextAlignment="{Binding LabelVerticalTextAlignment}" 
+                       HorizontalOptions="{Binding LabelHorizontalOptions}"
+                       VerticalOptions="{Binding LabelVerticalOptions}"
+                       Text="{Binding LabelText}" 
+                       TextColor="{Binding ColorText}" 
+                       Padding="0,20,0,0"
+                       FontSize="Medium"/>
+
+                <ActivityIndicator x:Name="IndicatorActive" 
+                                   IsVisible="{Binding IsBusy}" 
+                                   IsRunning="{Binding IsBusy}" 
+                                   Color="{Binding ColorActivity}"
+                                   Scale="1"
+                                   Visual="Material"/>
+            </StackLayout>
+
+        </Frame>
+    </ContentView.Content>
+</ContentView>
