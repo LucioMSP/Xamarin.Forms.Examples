@@ -1,0 +1,14 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/bin/Debug/netstandard2.0/SensitiveData.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/bin/Debug/netstandard2.0/SensitiveData.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/bin/Debug/netstandard2.0/ref/SensitiveData.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/bin/Debug/netstandard2.0/SensitiveData.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.csprojAssemblyReference.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/ref/SensitiveData.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/SensitiveData/SensitiveData/SensitiveData/obj/Debug/netstandard2.0/SensitiveData.pdb
