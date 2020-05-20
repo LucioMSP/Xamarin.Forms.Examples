@@ -1,0 +1,14 @@
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/bin/Debug/netstandard2.0/LinksPreviewer.deps.json
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/bin/Debug/netstandard2.0/LinksPreviewer.dll
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/bin/Debug/netstandard2.0/ref/LinksPreviewer.dll
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/bin/Debug/netstandard2.0/LinksPreviewer.pdb
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.csprojAssemblyReference.cache
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.AssemblyInfoInputs.cache
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.AssemblyInfo.cs
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.csproj.CoreCompileInputs.cache
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.dll
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/ref/LinksPreviewer.dll
+/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/obj/Debug/netstandard2.0/LinksPreviewer.pdb

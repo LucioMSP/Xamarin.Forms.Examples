@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:controls="clr-namespace:LinksPreviewer.Controls"
+             mc:Ignorable="d" x:Class="LinksPreviewer.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <DataTemplate x:Key="linkPreviewDataTemplate">
+                <Grid BackgroundColor="#333"
+                      RowSpacing="0"
+                      Padding="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="80" />
+                    </Grid.RowDefinitions>
+                    <Image Source="{Binding Image}"
+                           Grid.RowSpan="2"
+                           Aspect="AspectFill"/>
+                    <Label Text="{Binding Title}"
+                           LineBreakMode="TailTruncation"
+                           Grid.Column="1"
+                           TextColor="White" />
+                    <Label Text="{Binding Description}"
+                           Grid.Column="1"
+                           FontSize="Small"
+                           Grid.Row="1"
+                           TextColor="#999"  />
+                </Grid>
+            </DataTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Spacing="0">   
+        <StackLayout BackgroundColor="#666"
+                     Spacing="0"
+                     Margin="10,35">
+            <!--Label Link Preview-->
+            <controls:LinksPreviewControl Control="lblControl"
+                                          ItemTemplate="{StaticResource linkPreviewDataTemplate}" />
+            <Label x:Name="lblControl"
+                    TextColor="White"
+                    Padding="5"
+                    FontSize="Small"
+                    Text="Aprende acerca de Xamarin aquí: https://vicenteguzman.mx" />
+        </StackLayout>
+
+
+        <!--Editor Link Preview-->
+        <controls:LinksPreviewControl Control="EdtrControl"
+                                      Spacing="0"
+                                      VerticalOptions="EndAndExpand"
+                                      ItemTemplate="{StaticResource linkPreviewDataTemplate}" />
+        <Editor HorizontalOptions="FillAndExpand"
+                x:Name="EdtrControl"
+                HeightRequest="200"
+                PlaceholderColor="#999"
+                Placeholder="Escribe algo..."
+                VerticalOptions="End"
+                TextColor="White"
+                BackgroundColor="#333">
+        </Editor>
+
+    </StackLayout>
+</ContentPage>

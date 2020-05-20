@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1BBD0E06-5016-44ED-85B3-8444B38F0D18}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinksPreviewer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LinksPreviewer.Android FirstBuild="True" PreferredExecutionTarget="Android.ZY224MTMW2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinksPreviewer/MainPage.xaml">
+    <Files>
+      <File FileName="LinksPreviewer/Controls/LinksPreviewControl.cs" Line="5" Column="30" />
+      <File FileName="LinksPreviewer/MainPage.xaml" Line="4" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinksPreviewer" expanded="True">
+            <Node name="LinksPreviewer" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LinksPreviewer.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

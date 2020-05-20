@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rilp+XVQRk5nWSPy9MSsyKBWQDWTUSSBRTbq2p4r7Uz4T1vRcCK/Qbz+8iGRkB6o2/1NuApYaE44oXCytxtmGg==",
+  "success": true,
+  "projectFilePath": "/Users/deintec/Solutions/GitHub/XF_Examples/Xamarin.Forms.Examples/LinksPreviewer/LinksPreviewer/LinksPreviewer.csproj",
+  "expectedPackageFiles": [
+    "/Users/deintec/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/deintec/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/deintec/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/deintec/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/deintec/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
