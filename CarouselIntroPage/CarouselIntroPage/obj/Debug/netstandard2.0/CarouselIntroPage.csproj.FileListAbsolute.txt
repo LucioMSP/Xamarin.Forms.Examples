@@ -1,0 +1,14 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/bin/Debug/netstandard2.0/CarouselIntroPage.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/bin/Debug/netstandard2.0/CarouselIntroPage.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/bin/Debug/netstandard2.0/ref/CarouselIntroPage.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/bin/Debug/netstandard2.0/CarouselIntroPage.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/ref/CarouselIntroPage.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/CarouselIntroPage/CarouselIntroPage/obj/Debug/netstandard2.0/CarouselIntroPage.csprojAssemblyReference.cache
