@@ -1,9 +1,10 @@
 # CarouselIntroPage
 
-Android | iOS |
 ------------ | ------------- 
+<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/CarouselIntroPage.gif" />|
 <img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot01.png"/>| 
 <img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot02.png"/>| 
+<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot03.png"/>| 
 
 
 ## More
