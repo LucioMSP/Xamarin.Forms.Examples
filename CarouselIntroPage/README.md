@@ -1,9 +1,13 @@
 # CarouselIntroPage
 
-<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/CarouselIntroPage.gif" />|
-<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot01.png"/>| 
-<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot02.png"/>| 
-<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot03.png"/>| 
+## Result
+<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/CarouselIntroPage.gif" />
+
+## ScreenShots
+
+Intro 01 | Intro 02 | Intro 03
+------------ | ------------- | ------------------
+<img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot01.png"/>| <img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot02.png"/>| <img width="250" src="https://github.com/LucioMSP/Xamarin.Forms.Examples/blob/master/CarouselIntroPage/ScreenShots/ScreenShot03.png"/>| 
 
 
 ## More
