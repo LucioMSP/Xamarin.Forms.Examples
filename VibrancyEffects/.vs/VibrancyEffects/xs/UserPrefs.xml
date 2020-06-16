@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{39B7120F-A23C-42BA-A8B1-5E90E61EF524}|Default">
+  <MonoDevelop.Ide.ItemProperties.VibrancyEffects.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C622D180-03E1-4EA4-89B4-AC36569E5196" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VibrancyEffects/MainPage.xaml">
+    <Files>
+      <File FileName="VibrancyEffects.iOS/AppDelegate.cs" Line="30" Column="10" />
+      <File FileName="VibrancyEffects/MainPage.xaml" Line="52" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VibrancyEffects" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VibrancyEffects.Android PreferredExecutionTarget="Android.ZY224MTMW2" />
+</Properties>

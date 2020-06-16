@@ -1,0 +1,14 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/bin/Debug/netstandard2.0/VibrancyEffects.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/bin/Debug/netstandard2.0/VibrancyEffects.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/bin/Debug/netstandard2.0/ref/VibrancyEffects.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/bin/Debug/netstandard2.0/VibrancyEffects.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.csprojAssemblyReference.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/ref/VibrancyEffects.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/obj/Debug/netstandard2.0/VibrancyEffects.pdb

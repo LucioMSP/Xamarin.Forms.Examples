@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rz5EjMZ+Uc5FOF2YdHUiRVE1CkNNMNyrL1t0VjSKGfX21oaHh8lsBXwknP/BFNe9W2hJNuZ9XXnV6RbwjgeoaQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/VibrancyEffects/VibrancyEffects/VibrancyEffects.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/vibrancy.forms/1.0.5/vibrancy.forms.1.0.5.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
