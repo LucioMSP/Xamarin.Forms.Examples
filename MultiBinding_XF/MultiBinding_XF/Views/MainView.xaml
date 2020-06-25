@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:MultiBinding_XF.ViewModels"
+    xmlns:converters="clr-namespace:MultiBinding_XF.Converters"
+    x:Class="MultiBinding_XF.Views.MainView"
+    Title="MultiBinding Xamarin.Forms">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:NameConverter x:Key="NameConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.BindingContext>
+        <viewmodels:MainViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Padding="12">
+
+            <Label Text="Fill the following form:" TextColor="DarkBlue" HorizontalOptions="Start" FontSize="Medium" />
+            
+            <Entry Placeholder="First Name"
+                   Text="{Binding Name, Mode=TwoWay}"/>
+            <Entry Placeholder="Middlename"
+                   Text="{Binding Middlename, Mode=TwoWay}"/>
+            <Entry Placeholder="Last Name"
+                   Text="{Binding Lastname, Mode=TwoWay}"/>
+            <BoxView HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1" />
+
+            <Label Text="Full Name" TextColor="DarkBlue" HorizontalOptions="Start" FontSize="Medium" />
+            
+            <Label>
+                <Label.Text>
+                    <MultiBinding Converter="{StaticResource NameConverter}">
+                        <Binding Path="Name"/>
+                        <Binding Path="Middlename"/>
+                        <Binding Path="Lastname"/>
+                    </MultiBinding>
+                </Label.Text>
+            </Label>
+            <BoxView HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1" />
+                
+            <StackLayout VerticalOptions="EndAndExpand" Margin="0,0,0,10">
+            <Button Text="Register" HeightRequest="50" BackgroundColor="DarkBlue" TextColor="White" CornerRadius="5" />
+            <Label Text="Forgotten password?" TextColor="DarkBlue" HorizontalOptions="Center" FontSize="Medium" />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1" />
+                <Label Text="OR" TextColor="#555" HorizontalOptions="Center"  VerticalOptions="Center" FontSize="Medium" />
+                <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1"  />
+             </StackLayout>
+            <Button Text="Log In" HeightRequest="50" BackgroundColor="DarkBlue" TextColor="White" CornerRadius="5" />
+            </StackLayout>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
