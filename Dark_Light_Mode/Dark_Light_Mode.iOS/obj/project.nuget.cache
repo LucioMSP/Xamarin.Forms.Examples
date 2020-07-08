@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "MA2eV4X80tlL4Hj11/+zVQCBC+7ReXhmG3KhPBvOoKEAajwIxJdCA51Ux5EwQ3o5RKOYarc2wu2ZSFWuN0idYw==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/Dark_Light_Mode.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.7.0.1080/xamarin.forms.4.7.0.1080.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.5.3.2 to 1.3.1. Reference the package directly from the project to select a different version. \n Dark_Light_Mode.iOS -> Dark_Light_Mode -> Xamarin.Essentials (>= 1.5.3.2) \n Dark_Light_Mode.iOS -> Xamarin.Essentials (>= 1.3.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

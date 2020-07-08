@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="Dark_Light_Mode.MainPage"
+             BackgroundColor="{AppThemeBinding Light={StaticResource LightPageBackgroundColor}, Dark={StaticResource DarkPageBackgroundColor}}">
+
+<Grid Padding="1" >
+    <ScrollView Padding="4">
+        <StackLayout>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Start" Margin="10">
+                <Label Text="Settings" FontAttributes="Bold" FontSize="Header" Style="{StaticResource MediumLabelStyle}"  />
+            </StackLayout>
+        <StackLayout>
+        
+    <StackLayout>
+      <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="0.25*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <CheckBox x:Name="checkLight" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxLight_CheckedChanged" IsChecked="{Binding IsChecked}"/>
+        <Label Grid.Row="1" Grid.Column="2" Text="Light Theme" VerticalOptions="Center" Style="{StaticResource MediumLabelStyle}" />
+
+        <CheckBox x:Name="checkDark" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxDark_CheckedChanged" IsChecked="{Binding IsChecked}"/>
+        <Label Grid.Row="2" Grid.Column="2" Text="Dark Theme" VerticalOptions="Center" Style="{StaticResource MediumLabelStyle}" />
+    
+      </Grid>
+      <Grid BackgroundColor="{AppThemeBinding Light={StaticResource LightPrimaryColor}, Dark={StaticResource DarkPrimaryColor}}">
+               <Frame Margin="10"
+                       CornerRadius="50"
+                       HeightRequest="60"
+                       WidthRequest="60"
+                       IsClippedToBounds="True"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center">
+               <Image Grid.Column="1"
+                      Margin="-40"
+                      Source="VGGL.jpg"
+                      HeightRequest="100"
+                      WidthRequest="100"/>
+                </Frame>
+        </Grid>
+      </StackLayout>
+    </StackLayout>
+        
+   </StackLayout>
+ </ScrollView>
+</Grid>
+
+</ContentPage>

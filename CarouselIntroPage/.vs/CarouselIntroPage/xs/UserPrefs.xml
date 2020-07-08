@@ -2,29 +2,12 @@
   <MonoDevelop.Ide.ItemProperties.CarouselIntroPage.Android PreferredExecutionTarget="Android.ZY224MTMW2" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CarouselIntroPage/MainPage.xaml">
     <Files>
-      <File FileName="CarouselIntroPage/MainPage.xaml" Line="23" Column="51" />
+      <File FileName="CarouselIntroPage/MainPage.xaml" Line="31" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CarouselIntroPage" expanded="True">
-            <Node name="CarouselIntroPage" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="CarouselIntroPage.Android" expanded="True">
-              <Node name="Assets" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-                <Node name="mipmap-hdpi" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="CarouselIntroPage.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="CarouselIntroPage" expanded="True" />
         </State>
       </Pad>
     </Pads>

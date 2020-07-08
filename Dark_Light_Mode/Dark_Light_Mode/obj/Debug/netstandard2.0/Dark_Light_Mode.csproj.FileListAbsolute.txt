@@ -1,0 +1,14 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/bin/Debug/netstandard2.0/Dark_Light_Mode.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/bin/Debug/netstandard2.0/Dark_Light_Mode.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/bin/Debug/netstandard2.0/ref/Dark_Light_Mode.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/bin/Debug/netstandard2.0/Dark_Light_Mode.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/ref/Dark_Light_Mode.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode/obj/Debug/netstandard2.0/Dark_Light_Mode.csprojAssemblyReference.cache

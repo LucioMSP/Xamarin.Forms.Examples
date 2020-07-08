@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{27114B1B-F73D-419B-AE64-7C017E727D4A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodeSnippet__Sample.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeSnippet_Sample/VideModels/MainViewModel.cs">
+    <Files>
+      <File FileName="CodeSnippet_Sample/VideModels/MainViewModel.cs" Line="11" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeSnippet_Sample" expanded="True">
+            <Node name="CodeSnippet_Sample" expanded="True">
+              <Node name="VideModels" expanded="True">
+                <Node name="MainViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CodeSnippet__Sample.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CodeSnippet__Sample FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
