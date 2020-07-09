@@ -45,15 +45,15 @@
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/bin/iPhoneSimulator/Debug/Dark_Light_Mode.pdb
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/ibtool/_BundleResourceWithLogicalName.items
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_PartialAppManifest.items
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_BundleResourceWithLogicalName.items
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_PartialAppManifest.items
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_BundleResourceWithLogicalName.items
-/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/optimized/
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/Dark_Light_Mode.iOS.csprojAssemblyReference.cache
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/Dark_Light_Mode.iOS.csproj.CoreCompileInputs.cache
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/Dark_Light_Mode.iOS.csproj.CopyComplete
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/Dark_Light_Mode.iOS.exe
 /Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/Dark_Light_Mode.iOS.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/actool/_PartialAppManifest.items
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/actool/_BundleResourceWithLogicalName.items
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/coremlc/_PartialAppManifest.items
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Dark_Light_Mode/Dark_Light_Mode.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-13.5/optimized/
