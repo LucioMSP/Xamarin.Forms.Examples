@@ -979,6 +979,7 @@ int drawable notification_tile_bg 0x7f070072
 int drawable notify_panel_notification_icon_bg 0x7f070073
 int drawable tooltip_frame_dark 0x7f070074
 int drawable tooltip_frame_light 0x7f070075
+int drawable vggl 0x7f070076
 int id ALT 0x7f080000
 int id CTRL 0x7f080001
 int id FUNCTION 0x7f080002
@@ -1279,6 +1280,7 @@ int layout toolbar 0x7f0b0046
 int mipmap icon 0x7f0c0000
 int mipmap icon_round 0x7f0c0001
 int mipmap launcher_foreground 0x7f0c0002
+int mipmap vggl 0x7f0c0003
 int string abc_action_bar_home_description 0x7f0d0000
 int string abc_action_bar_up_description 0x7f0d0001
 int string abc_action_menu_overflow_description 0x7f0d0002

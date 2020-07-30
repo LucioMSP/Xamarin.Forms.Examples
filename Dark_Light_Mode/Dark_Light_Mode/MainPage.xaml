@@ -10,7 +10,7 @@
     <ScrollView Padding="4">
         <StackLayout>
             <StackLayout VerticalOptions="Center" HorizontalOptions="Start" Margin="10">
-                <Label Text="Settings" FontAttributes="Bold" FontSize="Header" Style="{StaticResource MediumLabelStyle}"  />
+                <Label Text="Settings" FontAttributes="Bold" FontSize="Title" Style="{StaticResource MediumLabelStyle}"  />
             </StackLayout>
         <StackLayout>
         
@@ -29,10 +29,10 @@
             <ColumnDefinition Width="*"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <CheckBox x:Name="checkLight" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxLight_CheckedChanged" IsChecked="{Binding IsChecked}"/>
+        <CheckBox x:Name="checkLight" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxLight_CheckedChanged"/>
         <Label Grid.Row="1" Grid.Column="2" Text="Light Theme" VerticalOptions="Center" Style="{StaticResource MediumLabelStyle}" />
 
-        <CheckBox x:Name="checkDark" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxDark_CheckedChanged" IsChecked="{Binding IsChecked}"/>
+        <CheckBox x:Name="checkDark" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" CheckedChanged="OnCheckBoxDark_CheckedChanged" />
         <Label Grid.Row="2" Grid.Column="2" Text="Dark Theme" VerticalOptions="Center" Style="{StaticResource MediumLabelStyle}" />
     
       </Grid>

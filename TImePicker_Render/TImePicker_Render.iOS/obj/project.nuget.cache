@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fPnppiIwxvCYrXvLwNul6sQXQoOrvE8uQ60P8IcGK8+eeCeJsByD+7lxKDSTd+D6+5SsMVzHXreOU3zIKyZ0g==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render.iOS/TImePicker_Render.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

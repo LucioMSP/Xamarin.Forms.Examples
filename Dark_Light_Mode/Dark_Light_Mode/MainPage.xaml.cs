@@ -12,7 +12,7 @@ namespace Dark_Light_Mode
         {
             InitializeComponent();
         }
-
+        public bool IsChecked { get; set; }
         protected override void OnAppearing()
         {
             base.OnAppearing();
@@ -21,6 +21,7 @@ namespace Dark_Light_Mode
             if(currentTheme == OSAppTheme.Light)
             {
                 checkLight.IsChecked = true;
+        
             }
             else
             {
@@ -30,12 +31,20 @@ namespace Dark_Light_Mode
 
         void OnCheckBoxLight_CheckedChanged(object sender, CheckedChangedEventArgs e)
         {
-            Application.Current.UserAppTheme = OSAppTheme.Light;
+            if (checkLight.IsChecked)
+            {
+                Application.Current.UserAppTheme = OSAppTheme.Light;
+                checkDark.IsChecked = false;
+            }
         }
 
         void OnCheckBoxDark_CheckedChanged(object sender, CheckedChangedEventArgs e)
         {
-            Application.Current.UserAppTheme = OSAppTheme.Dark;
+            if (checkDark.IsChecked)
+            {
+                Application.Current.UserAppTheme = OSAppTheme.Dark;
+                checkLight.IsChecked = false;
+            }
         }
     }
 }

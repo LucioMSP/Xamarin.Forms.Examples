@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5CBD9800-B762-4DFE-B6A5-D1B7D75F83F6}|Default">
+  <MonoDevelop.Ide.ItemProperties.TImePicker__Render.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TImePicker_Render/Controls/CRTimePicker.cs">
+    <Files>
+      <File FileName="TImePicker_Render/MainPage.xaml" Line="6" Column="54" />
+      <File FileName="TImePicker_Render/Controls/CRTimePicker.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TImePicker_Render" expanded="True">
+            <Node name="TImePicker_Render" expanded="True">
+              <Node name="Controls" expanded="True">
+                <Node name="CRTimePicker.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TImePicker_Render.Android" expanded="True" />
+            <Node name="TImePicker_Render.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TImePicker__Render FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TImePicker__Render.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>
