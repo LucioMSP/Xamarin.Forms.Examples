@@ -1,21 +1,14 @@
-﻿<Properties StartupConfiguration="{8CC25D0C-060A-44D2-BE3A-A12FA0B2A3C0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Dark__Light__Mode.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dark_Light_Mode/MainPage.xaml.cs">
+﻿<Properties StartupConfiguration="{D0556653-4555-4E0D-A89A-7215BE0E91A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Dark__Light__Mode.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.ZY224MTMW2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dark_Light_Mode/MainPage.xaml">
     <Files>
-      <File FileName="Dark_Light_Mode/MainPage.xaml.cs" Line="28" Column="44" />
-      <File FileName="Dark_Light_Mode/MainPage.xaml" />
+      <File FileName="Dark_Light_Mode/MainPage.xaml.cs" Line="47" Column="14" />
+      <File FileName="Dark_Light_Mode/MainPage.xaml" Line="13" Column="78" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Dark_Light_Mode" expanded="True">
-            <Node name="Dark_Light_Mode" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="Dark_Light_Mode.iOS" expanded="True" />
-          </Node>
+          <Node name="Dark_Light_Mode" expanded="True" />
         </State>
       </Pad>
     </Pads>

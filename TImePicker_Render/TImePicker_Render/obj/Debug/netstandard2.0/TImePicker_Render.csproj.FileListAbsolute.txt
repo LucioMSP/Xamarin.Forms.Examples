@@ -1,0 +1,14 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/bin/Debug/netstandard2.0/TImePicker_Render.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/bin/Debug/netstandard2.0/TImePicker_Render.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/bin/Debug/netstandard2.0/ref/TImePicker_Render.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/bin/Debug/netstandard2.0/TImePicker_Render.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.csprojAssemblyReference.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/ref/TImePicker_Render.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/TImePicker_Render/TImePicker_Render/obj/Debug/netstandard2.0/TImePicker_Render.pdb
