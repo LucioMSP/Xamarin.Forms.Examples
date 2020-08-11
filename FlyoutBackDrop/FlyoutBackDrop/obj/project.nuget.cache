@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0HVjIFtUVxjfjMwShu03CZoywtf6bLO6G/9XeHzuWNdqhxNbt8Q3a7zOPa2P/wK9RbX9PWzqPXTFZA/R1SUIA==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/FlyoutBackDrop/FlyoutBackDrop/FlyoutBackDrop.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

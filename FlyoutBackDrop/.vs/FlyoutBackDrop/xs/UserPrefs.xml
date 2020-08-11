@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D954D5F6-9C4B-4376-8168-DB5B2FC9AB1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlyoutBackDrop/AppShell.xaml">
+    <Files>
+      <File FileName="FlyoutBackDrop/AppShell.xaml" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlyoutBackDrop" expanded="True">
+            <Node name="FlyoutBackDrop" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FlyoutBackDrop.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6334DDF-B3F1-4B79-BFD3-420631019103" />
+  <MonoDevelop.Ide.ItemProperties.FlyoutBackDrop.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:FlyoutBackDrop.Views"
+       xmlns:controls="clr-namespace:FlyoutBackDrop.Controls"
+       FlyoutBackgroundImage="photo.jpg"
+       FlyoutBackgroundImageAspect="AspectFill"
+       FlyoutHeaderBehavior="CollapseOnScroll"
+       Navigating="OnNavigating"
+       Navigated="OnNavigated"
+       x:Class="FlyoutBackDrop.AppShell">
+
+    <Shell.Resources>
+        <Style x:Key="BaseStyle"
+               TargetType="Element">
+            <Setter Property="Shell.BackgroundColor"
+                    Value="#455A64" />
+            <Setter Property="Shell.ForegroundColor"
+                    Value="White" />
+            <Setter Property="Shell.TitleColor"
+                    Value="White" />
+            <Setter Property="Shell.DisabledColor"
+                    Value="#B4FFFFFF" />
+            <Setter Property="Shell.UnselectedColor"
+                    Value="#95FFFFFF" />
+        </Style>
+        <Style TargetType="ShellItem"
+               BasedOn="{StaticResource BaseStyle}" />
+        <Style x:Key="BlueMSShell"
+               TargetType="Element"
+               BasedOn="{StaticResource BaseStyle}">
+            <Setter Property="Shell.BackgroundColor"
+                    Value="#3B83BD" />
+        </Style>
+        
+        <Style x:Key="AboutShell"
+               TargetType="Element"
+               BasedOn="{StaticResource BaseStyle}">
+            <Setter Property="Shell.BackgroundColor"
+                    Value="#96d1ff" />
+        </Style>
+    </Shell.Resources>
+
+    <Shell.FlyoutHeader>
+        <controls:FlyoutHeader />
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Route="stores"
+                Title=""
+                FlyoutDisplayOptions="AsMultipleItems">
+        <Shell.FlyoutBackdrop>
+          <LinearGradientBrush StartPoint="0,0"
+                               EndPoint="1,1">
+              <GradientStop Color="#8A2387"
+                            Offset="0.1" />
+              <GradientStop Color="#E94057"
+                            Offset="0.6" />
+              <GradientStop Color="#58ADF4"
+                            Offset="1.0" />
+          </LinearGradientBrush>
+      </Shell.FlyoutBackdrop>
+
+      <ShellContent Route="stores"
+                      Style="{StaticResource BlueMSShell}"
+                      Title="Stores"
+                      Icon="store.png"
+                      ContentTemplate="{DataTemplate views:NationalPage}" />
+    </FlyoutItem>
+
+    <ShellContent Route="about"
+                  Style="{StaticResource AboutShell}"
+                  Title="About"
+                  Icon="info.png"
+                  ContentTemplate="{DataTemplate views:AboutPage}" />
+
+    <MenuItem Text="Random"
+              IconImageSource="random.png"
+              Command="{Binding RandomPageCommand}" />
+    <MenuItem Text="Help"
+              IconImageSource="help.png"
+              Command="{Binding HelpCommand}"
+              CommandParameter="https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/shell" />
+
+</Shell>
