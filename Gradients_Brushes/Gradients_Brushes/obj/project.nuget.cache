@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjqXKjzGtpYlFD5nbX43VU22cCISr3D9u/7cjQ+6aiFf9/d0ZfR64tDKsC9OVhtY2YnpIaMsCQ5G6fEafV55bw==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/Gradients_Brushes.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

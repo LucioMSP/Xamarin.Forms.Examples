@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5mU4SGAyd/Sq2wHhoKsrIAffkyt4kjJ6vo299Zort3Hr/LBa1epwJXLGJMMFJBQsC1JSAiM8VpTVHHHSWLyfQ==",
+  "success": true,
+  "projectFilePath": "/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes.iOS/Gradients_Brushes.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucio/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/lucio/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

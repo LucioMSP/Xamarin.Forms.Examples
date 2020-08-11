@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gradients_Brushes.Views.GradientsView"
+             NavigationPage.BackButtonTitle="Back"
+             Title="Gradients">
+
+    <StackLayout>
+        <StackLayout>
+                <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+                    <StackLayout VerticalOptions="Center" HeightRequest="250" Grid.Row="1">
+                        <Label Text="Solid Gradient"
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"
+                               VerticalOptions="EndAndExpand" />
+
+                        <Frame Background="DarkGreen"
+                               BorderColor="DarkGreen"
+                               HasShadow="True"
+                               CornerRadius="12"
+                               HeightRequest="120"
+                               WidthRequest="120"/>
+                    </StackLayout>
+
+                    <StackLayout VerticalOptions="Center" HeightRequest="250" Grid.Row="2" >
+                        <Label Text="Linear Gradients"
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"
+                               VerticalOptions="EndAndExpand" />
+
+                                <Frame BorderColor="DarkGreen"
+                                       HasShadow="True"
+                                       CornerRadius="12"
+                                       HeightRequest="120"
+                                       WidthRequest="120">
+                                    <Frame.Background>
+                                        <LinearGradientBrush StartPoint="0,0"
+                                                             EndPoint="1,0">
+                                            <GradientStop Color="Green"
+                                                          Offset="0.1"/>
+                                            <GradientStop Color="Orange"
+                                                          Offset="1.0"/>
+                                        </LinearGradientBrush>
+                                    </Frame.Background>
+                                </Frame>
+                    </StackLayout>
+
+                    <StackLayout VerticalOptions="Center" HeightRequest="250" Grid.Row="3">
+                        <Label Text="Radial Gradients"
+                               FontAttributes="Bold"
+                               HorizontalOptions="Center"
+                               VerticalOptions="EndAndExpand" />
+
+                                <Frame BorderColor="DarkGreen"
+                                       HasShadow="True"
+                                       CornerRadius="12"
+                                       HeightRequest="120"
+                                       WidthRequest="120">
+                                    <Frame.Background>
+                                        <RadialGradientBrush Center="0.5,0.5"
+                                                             Radius="0.5">
+                                            <GradientStop Color="DarkGreen"
+                                                          Offset="0.1"/>
+                                            <GradientStop Color="Yellow"
+                                                          Offset="1.0"/>
+                                        </RadialGradientBrush>
+                                    </Frame.Background>
+                                </Frame>
+                    </StackLayout>
+                </Grid>
+             </StackLayout>
+
+    </StackLayout>
+</ContentPage>

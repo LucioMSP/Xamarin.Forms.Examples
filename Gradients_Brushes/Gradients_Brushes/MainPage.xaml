@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="Gradients_Brushes.MainPage">
+
+    <StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Grid>
+                    <StackLayout VerticalOptions="Center" HeightRequest="250" >
+                        <Image Source="HeaderLogoXamarin.jpg" WidthRequest="300" HeightRequest="300" VerticalOptions="Center" />
+                    </StackLayout>
+                </Grid>
+
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="English " FontSize="Medium"  />
+                    <Label Text=" • Spanish • " FontSize="Medium"  />
+                    <Label Text="More..." FontSize="Medium" TextColor="DarkBlue"  />
+                </StackLayout>
+
+                <StackLayout Padding="40" Spacing="20" >
+                    <Button HeightRequest="50" Text="Gradients" BackgroundColor="LightSkyBlue" TextColor="White" CornerRadius="5" Clicked="Gradients_Clicked" />
+                </StackLayout>
+
+                  
+                <StackLayout Padding="40" Spacing="20">
+                    <Button Text="LogIn" HeightRequest="50" BackgroundColor="DarkBlue" TextColor="White" CornerRadius="5" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1" />
+                        <Label Text="OR" TextColor="#555" HorizontalOptions="Center"  VerticalOptions="Center" FontSize="Medium" />
+                        <BoxView BackgroundColor="#555" HorizontalOptions="FillAndExpand" VerticalOptions="Center" HeightRequest="1"  />
+                    </StackLayout>
+                    <Button Text="Register" HeightRequest="50" BackgroundColor="Green" TextColor="White" CornerRadius="5" HorizontalOptions="Center" WidthRequest="320" />
+                </StackLayout>
+            </StackLayout>
+            
+        </ScrollView>
+    </StackLayout>
+   
+</ContentPage>

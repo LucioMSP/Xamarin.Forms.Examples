@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{5429095D-A849-455C-903B-6033C15805D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gradients__Brushes.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gradients_Brushes/MainPage.xaml">
+    <Files>
+      <File FileName="Gradients_Brushes/Views/GradientsView.xaml" Line="16" Column="60" />
+      <File FileName="Gradients_Brushes/MainPage.xaml" Line="24" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gradients_Brushes" expanded="True">
+            <Node name="Gradients_Brushes" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="GradientsView.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Gradients_Brushes.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Gradients_Brushes.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Gradients__Brushes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6334DDF-B3F1-4B79-BFD3-420631019103" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

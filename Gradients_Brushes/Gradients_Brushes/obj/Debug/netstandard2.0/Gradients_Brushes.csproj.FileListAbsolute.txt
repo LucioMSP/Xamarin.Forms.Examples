@@ -1,0 +1,15 @@
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/bin/Debug/netstandard2.0/Gradients_Brushes.deps.json
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/bin/Debug/netstandard2.0/Gradients_Brushes.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/bin/Debug/netstandard2.0/ref/Gradients_Brushes.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/bin/Debug/netstandard2.0/Gradients_Brushes.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.csprojAssemblyReference.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.AssemblyInfoInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.AssemblyInfo.cs
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.csproj.CoreCompileInputs.cache
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/ref/Gradients_Brushes.dll
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Gradients_Brushes.pdb
+/Users/lucio/Solutions/XamarinApps/Xamarin.Forms.Examples/Gradients_Brushes/Gradients_Brushes/obj/Debug/netstandard2.0/Views/GradientsView.xaml.g.cs
